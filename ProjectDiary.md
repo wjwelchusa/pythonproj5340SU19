@@ -68,8 +68,7 @@ Disassociating and capturing IV for decrypting:
 
 ________________________________________
 
-## 7/11/2019 Activities
-- Learned README Use and Format
-- Completed Udacity tutorial on README. [https://classroom.udacity.com/courses/ud777]
-- Reformatted documentation files using markdown.
-
+## 7/12/2019 - 7/13/2019 Activities
+- Wrote small Scapy scripts to familiarize myself with the capabilities and synyax.
+- Followed several tutorials regarding Scapy.
+- Worked the aricrack-ng workflow and defined idealized capabilities for my project scripts.
