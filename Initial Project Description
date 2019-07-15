@@ -1,0 +1,19 @@
+COSC 5340 SU19 Project Description
+Joe Welch
+
+Wireless Tool Development
+
+Learning objectives:
+Increase proficiency with Python scripting.
+Increase awareness of and implementation steps for Python security modules and libraries.
+Establish and follow development workflow which uses version control and permits thoughtful build, refactoring and testing.
+Pair security exploit information with active wireless behavior to asess patch requirement or exploit availability. 
+Document the development to permit subsquent work by myself or interested developers/practicioners.
+
+TODO's (Not all are possible within the scope of the COSC5340 course. May continue work on my own time.)
+1. Develop security utility which detects 802.11 behavior.
+2. Determine if 802.11 transmissions are unencrypted, WEP, WPA, WPA2 (if possible).
+3. Classify AP's, radio cards by MAC and attribute the wireless radios to manufacturer. 
+3. Pair database with radio ID to determine if updates are required or if exploits are available.
+4. By examining SSID seeking behavior associated with MAC address, infer travel and locationa behavior for detected devices.
+
