@@ -3,7 +3,7 @@
 ## 6/25/2019 Activities
 1. Provided initial project submission.
 
-Rationale for project:
+### Rationale for project:
 
 1. Wireless access is becoming dominant.
 2. here are many wireless signals used: 802.11, 802.15, BlueTooth, Cellular, ZigBee, etc.
@@ -18,10 +18,9 @@ Wireless card type: SimpleWiFi Adapter Card Model N124-700, with chipset Ralink 
 ## 6/30/2019 - 7/1/2019  Activities
 Worked with libraries and internet documentation to discern which information about 802.11 signals may be discerned, captured and analyzed with existing utilities. There are many libraries available, of varying use and maturity. My effort will be to implement some of the capabilities via Python mudules, initially  with Scapy module.
 
-
 ## 7/2/2019-7/5-2019 Activities
 
-Wireless Utility Practice
+### Wireless Utility Practice
 
 - Practiced repeatedly with the following commands to:
 - Examined how a card is placed in monitor mode.
@@ -32,7 +31,7 @@ Wireless Utility Practice
 
 _______________________________________
 
-Commands:
+### Commands:
 - ifconfig -a  			# look for wlan adapter
 - lsmod 			# look for drivers for LAN card RT2800XXX drivers
 - ifconfig wlan0 up 		# turn on WLAN, check for up in ifconfig -a WLAN adapter
@@ -72,3 +71,45 @@ ________________________________________
 - Wrote small Scapy scripts to familiarize myself with the capabilities and synyax.
 - Followed several tutorials regarding Scapy.
 - Worked the aricrack-ng workflow and defined idealized capabilities for my project scripts.
+
+
+## Notes for research, practice, exploration and tool development.
+### Sources:
+1. Ramachandran, V. (15 Jul 2019) "Scripting Wi-Fi Pentesting Tools in Python", retrieved from https://www.pentesteracademy.com/course?id=14
+2. Scapy Project Documentation, (10 Jul 2019) "Packet crafting for Python2 and Python3", retrieved from https://scapy.net/
+3. Welcome to Scapy’s documentation!, (10 Jul 2019) "Scapy", retrieved from https://scapy.readthedocs.io/en/latest/
+4. Wood, M. (8 Jul 2019), "Scapy", retrieved from "https://thepacketgeek.com/"
+
+### Options to exploit with available toolsets:
+1. Existing utilities and tools (aircrack-ng, pineapple, etc.)
+2. Raw Sockets
+3. Scapy library approach - built upon Raw Sockets
+4. Scapy supports many protocols, we will use utilities associated with 802.11.
+
+### Initial effort to develop workflow for using Scapy in interactive mode:
+1. Place attached wireless card in monitor mode
+airmon-ng check kill
+airmon-ng start wlan0mon (or as req'd for specific card)
+airodump wlan0mon (turn on shortly to ensure packet capture is working)
+
+2. Launch scapy for monitor mode
+Scapy cannot do channel hopping. It must be done with airmon-ng
+#scapy
+>>>conf   ( lists config settings for scapy)
+>>>conf.iface=wlan0mon (set iface for scapy)
+>>>wifiPkts = sniff(count=1)
+>>>wifiPkts (will list contents)
+>>>wifiPkts.summary()   (lists summary of sniff session)
+>>>wifiPkts.nsummary() (lists summary with a line number)
+>>>wifiPkts.hexdump() (lists summary in hex)
+
+
+### Workflow for using Scapy in scripting mode
+Potential uses:
+1. packet processor
+2. parse, analyze, act
+3. callback function
+
+### Individual script development to learn more about Scapy and to build Scapy tools.
+
+A. Created basic PacketHandler script to sniff and print summaries of captured packets (filename: packethandler.py)
