@@ -94,6 +94,7 @@ airodump wlan0mon (turn on shortly to ensure packet capture is working)
 
 2. Launch scapy for monitor mode
 Scapy cannot do channel hopping. It must be done with airmon-ng
+```
 #scapy
 >>>conf   ( lists config settings for scapy)
 >>>conf.iface=wlan0mon (set iface for scapy)
@@ -102,6 +103,7 @@ Scapy cannot do channel hopping. It must be done with airmon-ng
 >>>wifiPkts.summary()   (lists summary of sniff session)
 >>>wifiPkts.nsummary() (lists summary with a line number)
 >>>wifiPkts.hexdump() (lists summary in hex)
+```
 
 
 ### Workflow for using Scapy in scripting mode
