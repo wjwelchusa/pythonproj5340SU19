@@ -94,6 +94,7 @@ airodump wlan0mon (turn on shortly to ensure packet capture is working)
 
 2. Launch scapy for monitor mode
 Scapy cannot do channel hopping. It must be done with airmon-ng
+```
 #scapy
 >>>conf   ( lists config settings for scapy)
 >>>conf.iface=wlan0mon (set iface for scapy)
@@ -102,7 +103,7 @@ Scapy cannot do channel hopping. It must be done with airmon-ng
 >>>wifiPkts.summary()   (lists summary of sniff session)
 >>>wifiPkts.nsummary() (lists summary with a line number)
 >>>wifiPkts.hexdump() (lists summary in hex)
-
+```
 
 ### Workflow for using Scapy in scripting mode
 Potential uses:
@@ -110,6 +111,49 @@ Potential uses:
 2. parse, analyze, act
 3. callback function
 
-### Individual script development to learn more about Scapy and to build Scapy tools.
+## 15 Jul 2019 Activities
 
-A. Created basic PacketHandler script to sniff and print summaries of captured packets (filename: packethandler.py)
+### Workflow for today
+1. Scan local STA's for promiscuous mode
+2. getmacbyip may be useful
+
+### Understanding layers in Scapy
+1. Information regarding the data types and structure of scapy layers is revealed with the ls command. Ex:
+```
+>>>ls(RadioTap)
+>>>ls(Dot11)
+>>>ls(Dot11Beacon)
+>>>ls(Dot11Ely)
+```
+
+2. The content (not structure) of a packet can be extracted with the ls command and then the packet variable, NOT field name.
+To work your way up through the layers:
+```
+>>>pkt.payload  then
+>>>.pkt.payload.payload...
+```
+
+3. You can reverse the payload, with the .undelayer command
+.payload goes up
+.underlayer goes down
+
+4. Using a loop, it is possible to iterate up or down the scapy stack.
+```
+>>>temp = pkt
+>>>while temp:
+>>>...    print(temp.name)
+>>>...    temp = temp.payload
+```
+
+5. It is possible to extract the SSID from the beacon layer, using this syntax:
+pkt.payload.payload.payload.info   (remember .name is the name of the protocol, .info provides the contents)
+6. Can also get the similar info, using the command .getlayer
+7. It is also possible to check for layers, using the .haslayer(xx) info
+
+### Individual script development to learn more about Scapy and to build Scapy tools.
+1. Created basic PacketHandler script to sniff and print summaries of captured packets (filename: packethandler.py)
+
+## 7/16/2019 Activities
+1. Completed first two scripts to monitor ambient wireless trafffic and sniff data from the signals. The first script was for geeneral capture.
+The second script was to extract info and labels from the traffic. (.11 traffic and MAC address)
+2. The fields and structure available for extraction are considerable. I need to find useful documentation for referring to the data elements at each layer accessible with scapy.
