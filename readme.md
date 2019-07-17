@@ -159,4 +159,11 @@ pkt.payload.payload.payload.info   (remember .name is the name of the protocol, 
 ## 7/16/2019 Activities
 1. Completed first two scripts to monitor ambient wireless trafffic and sniff data from the signals. The first script was for geeneral capture.
 The second script was to extract info and labels from the traffic. (.11 traffic and MAC address)
-2. The fields and structure available for extraction are considerable. 
+2. The fields and structure available for extraction are considerable.
+
+## 7/17/2019 Activities
+### Investigated documentation for scapy Dot11 functions and data extracts
+1. Details provided by scapy are significant and detailed.
+2. Extracted output of all supported layers to: dot11_layers.txt
+3. Extracted all actions available with scapy to all_actions.txt
+4. Many of the remainings cripts will depend upon this documentation for data extract, classification and processing. 

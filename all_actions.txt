@@ -1,0 +1,578 @@
+Script started on 2019-07-17 19:34:22-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# scapy
+WARNING: No route found for IPv6 destination :: (no default route?)
+WARNING: IPython not available. Using standard Python shell instead.
+AutoCompletion, History are disabled.
+[32m[1m                                      [0m[34m[1m[0m
+[32m[1m                     aSPY//YASa       [0m[34m[1m[0m
+[32m[1m             apyyyyCY//////////YCa    [0m[34m[1m   |[0m
+[32m[1m            sY//////YSpcs  scpCY//Pp  [0m[34m[1m   | Welcome to Scapy[0m
+[32m[1m ayp ayyyyyyySCP//Pp           syY//C [0m[34m[1m   | Version 2.4.0[0m
+[32m[1m AYAsAYYYYYYYY///Ps              cY//S[0m[34m[1m   |[0m
+[32m[1m         pCCCCY//p          cSSps y//Y[0m[34m[1m   | https://github.com/secdev/scapy[0m
+[32m[1m         SPPPP///a          pP///AC//Y[0m[34m[1m   |[0m
+[32m[1m              A//A            cyP////C[0m[34m[1m   | Have fun![0m
+[32m[1m              p///Ac            sC///a[0m[34m[1m   |[0m
+[32m[1m              P////YCpc           A//A[0m[34m[1m   | Craft packets like I craft my beer.[0m
+[32m[1m       scccccp///pSP///p          p//Y[0m[34m[1m   |               -- Jean De Clerck[0m
+[32m[1m      sY/////////y  caa           S//P[0m[34m[1m   |[0m
+[32m[1m       cayCyayP//Ya              pY/Ya[0m
+[32m[1m        sY/PsY////YCc          aC//Yp [0m
+[32m[1m         sc  sccaCY//PCypaapyCP//YSs  [0m
+[32m[1m                  spCPY//////YPSps    [0m
+[32m[1m                       ccaacs         [0m
+[32m[1m                                      [0m
+[34m[1m>>> [0mlsc()
+IPID_count          : Identify IP id values classes in a list of packets
+arpcachepoison      : Poison target's cache with (your MAC,victim's IP) couple
+arping              : Send ARP who-has requests to determine which hosts are up
+bind_layers         : Bind 2 layers on some specific fields' values
+bridge_and_sniff    : Forward traffic between interfaces if1 and if2, sniff and return
+chexdump            :  Build a per byte hexadecimal representation
+computeNIGroupAddr  : Compute the NI group Address. Can take a FQDN as input parameter
+corrupt_bits        : Flip a given percentage or number of bits from a string
+corrupt_bytes       : Corrupt a given percentage or number of bytes from a string
+defrag              : defrag(plist) -> ([not fragmented], [defragmented],
+defragment          : defrag(plist) -> plist defragmented as much as possible 
+dhcp_request        : --
+dyndns_add          : Send a DNS add message to a nameserver for "name" to have a new "rdata"
+dyndns_del          : Send a DNS delete message to a nameserver for "name"
+etherleak           : Exploit Etherleak flaw
+fletcher16_checkbytes:  Calculates the Fletcher-16 checkbytes returned as 2 byte binary-string.
+fletcher16_checksum :  Calculates Fletcher-16 checksum of the given buffer.
+fragleak            : --
+fragleak2           : --
+fragment            : Fragment a big IP datagram
+fuzz                : Transform a layer into a fuzzy layer by replacing some default values by random objects
+getmacbyip          : Return MAC address corresponding to a given IP address
+getmacbyip6         : Returns the MAC address corresponding to an IPv6 address
+hexdiff             : Show differences between 2 binary strings
+hexdump             :  Build a tcpdump like hexadecimal view
+hexedit             : --
+hexstr              : --
+import_hexcap       : --
+is_promisc          : Try to guess if target is in Promisc mode. The target is provided by its ip.
+linehexdump         :  Build an equivalent view of hexdump() on a single line
+ls                  : List  available layers, or infos on a given layer class or name
+neighsol            : Sends an ICMPv6 Neighbor Solicitation message to get the MAC address of the neighbor with specified IPv6 address addr
+overlap_frag        : Build overlapping fragments to bypass NIPS
+promiscping         : Send ARP who-has requests to determine which hosts are in promiscuous mode
+rdpcap              : Read a pcap or pcapng file and return a packet list
+report_ports        : portscan a target and output a LaTeX table
+restart             : Restarts scapy
+send                : Send packets at layer 3
+sendp               : Send packets at layer 2
+sendpfast           : Send packets at layer 2 using tcpreplay for performance
+sniff               : 
+split_layers        : Split 2 layers previously bound
+sr                  : Send and receive packets at layer 3
+sr1                 : Send packets at layer 3 and return only the first answer
+sr1flood            : Flood and receive packets at layer 3 and return only the first answer
+srbt                : send and receive using a bluetooth socket
+srbt1               : send and receive 1 packet using a bluetooth socket
+srflood             : Flood and receive packets at layer 3
+srloop              : Send a packet at layer 3 in loop and print the answer each time
+srp                 : Send and receive packets at layer 2
+srp1                : Send and receive packets at layer 2 and return only the first answer
+srp1flood           : Flood and receive packets at layer 2 and return only the first answer
+srpflood            : Flood and receive packets at layer 2
+srploop             : Send a packet at layer 2 in loop and print the answer each time
+tcpdump             : Run tcpdump or tshark on a list of packets
+traceroute          : Instant TCP traceroute
+traceroute6         : Instant TCP traceroute using IPv6
+traceroute_map      : Util function to call traceroute on multiple targets, then
+tshark              : Sniff packets and print them calling pkt.summary(), a bit like text wireshark
+wireshark           : Run wireshark on a list of packets
+wrpcap              : Write a list of packets to a pcap file
+[34m[1m>>> [0mexit()
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# ls
+ all_actions.txt   'Initial Project Description'   [0m[01;34mscan_data_files[0m
+ dot11_layers.txt   readme.md                      [01;34mscapy_scripts[0m
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# cat all
+cat: all: No such file or directory
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# cat all_actions.txt 
+Script started on 2019-07-17 19:34:22-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# scapy
+WARNING: No route found for IPv6 destination :: (no default route?)
+WARNING: IPython not available. Using standard Python shell instead.
+AutoCompletion, History are disabled.
+[32m[1m                                      [0m[34m[1m[0m
+[32m[1m                     aSPY//YASa       [0m[34m[1m[0m
+[32m[1m             apyyyyCY//////////YCa    [0m[34m[1m   |[0m
+[32m[1m            sY//////YSpcs  scpCY//Pp  [0m[34m[1m   | Welcome to Scapy[0m
+[32m[1m ayp ayyyyyyySCP//Pp           syY//C [0m[34m[1m   | Version 2.4.0[0m
+[32m[1m AYAsAYYYYYYYY///Ps              cY//S[0m[34m[1m   |[0m
+[32m[1m         pCCCCY//p          cSSps y//Y[0m[34m[1m   | https://github.com/secdev/scapy[0m
+[32m[1m         SPPPP///a          pP///AC//Y[0m[34m[1m   |[0m
+[32m[1m              A//A            cyP////C[0m[34m[1m   | Have fun![0m
+[32m[1m              p///Ac            sC///a[0m[34m[1m   |[0m
+[32m[1m              P////YCpc           A//A[0m[34m[1m   | Craft packets like I craft my beer.[0m
+[32m[1m       scccccp///pSP///p          p//Y[0m[34m[1m   |               -- Jean De Clerck[0m
+[32m[1m      sY/////////y  caa           S//P[0m[34m[1m   |[0m
+[32m[1m       cayCyayP//Ya              pY/Ya[0m
+[32m[1m        sY/PsY////YCc          aC//Yp [0m
+[32m[1m         sc  sccaCY//PCypaapyCP//YSs  [0m
+[32m[1m                  spCPY//////YPSps    [0m
+[32m[1m                       ccaacs         [0m
+[32m[1m                                      [0m
+[34m[1m>>> [0mlsc()
+IPID_count          : Identify IP id values classes in a list of packets
+arpcachepoison      : Poison target's cache with (your MAC,victim's IP) couple
+arping              : Send ARP who-has requests to determine which hosts are up
+bind_layers         : Bind 2 layers on some specific fields' values
+bridge_and_sniff    : Forward traffic between interfaces if1 and if2, sniff and return
+chexdump            :  Build a per byte hexadecimal representation
+computeNIGroupAddr  : Compute the NI group Address. Can take a FQDN as input parameter
+corrupt_bits        : Flip a given percentage or number of bits from a string
+corrupt_bytes       : Corrupt a given percentage or number of bytes from a string
+defrag              : defrag(plist) -> ([not fragmented], [defragmented],
+defragment          : defrag(plist) -> plist defragmented as much as possible 
+dhcp_request        : --
+dyndns_add          : Send a DNS add message to a nameserver for "name" to have a new "rdata"
+dyndns_del          : Send a DNS delete message to a nameserver for "name"
+etherleak           : Exploit Etherleak flaw
+fletcher16_checkbytes:  Calculates the Fletcher-16 checkbytes returned as 2 byte binary-string.
+fletcher16_checksum :  Calculates Fletcher-16 checksum of the given buffer.
+fragleak            : --
+fragleak2           : --
+fragment            : Fragment a big IP datagram
+fuzz                : Transform a layer into a fuzzy layer by replacing some default values by random objects
+getmacbyip          : Return MAC address corresponding to a given IP address
+getmacbyip6         : Returns the MAC address corresponding to an IPv6 address
+hexdiff             : Show differences between 2 binary strings
+hexdump             :  Build a tcpdump like hexadecimal view
+hexedit             : --
+hexstr              : --
+import_hexcap       : --
+is_promisc          : Try to guess if target is in Promisc mode. The target is provided by its ip.
+linehexdump         :  Build an equivalent view of hexdump() on a single line
+ls                  : List  available layers, or infos on a given layer class or name
+neighsol            : Sends an ICMPv6 Neighbor Solicitation message to get the MAC address of the neighbor with specified IPv6 address addr
+overlap_frag        : Build overlapping fragments to bypass NIPS
+promiscping         : Send ARP who-has requests to determine which hosts are in promiscuous mode
+rdpcap              : Read a pcap or pcapng file and return a packet list
+report_ports        : portscan a target and output a LaTeX table
+restart             : Restarts scapy
+send                : Send packets at layer 3
+sendp               : Send packets at layer 2
+sendpfast           : Send packets at layer 2 using tcpreplay for performance
+sniff               : 
+split_layers        : Split 2 layers previously bound
+sr                  : Send and receive packets at layer 3
+sr1                 : Send packets at layer 3 and return only the first answer
+sr1flood            : Flood and receive packets at layer 3 and return only the first answer
+srbt                : send and receive using a bluetooth socket
+srbt1               : send and receive 1 packet using a bluetooth socket
+srflood             : Flood and receive packets at layer 3
+srloop              : Send a packet at layer 3 in loop and print the answer each time
+srp                 : Send and receive packets at layer 2
+srp1                : Send and receive packets at layer 2 and return only the first answer
+srp1flood           : Flood and receive packets at layer 2 and return only the first answer
+srpflood            : Flood and receive packets at layer 2
+srploop             : Send a packet at layer 2 in loop and print the answer each time
+tcpdump             : Run tcpdump or tshark on a list of packets
+traceroute          : Instant TCP traceroute
+traceroute6         : Instant TCP traceroute using IPv6
+traceroute_map      : Util function to call traceroute on multiple targets, then
+tshark              : Sniff packets and print them calling pkt.summary(), a bit like text wireshark
+wireshark           : Run wireshark on a list of packets
+wrpcap              : Write a list of packets to a pcap file
+[34m[1m>>> [0mexit()
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# ls
+ all_actions.txt   'Initial Project Description'   [0m[01;34mscan_data_files[0m
+ dot11_layers.txt   readme.md                      [01;34mscapy_scripts[0m
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# cat all
+cat: all: No such file or directory
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# cat all_actions.txt 
+Script started on 2019-07-17 19:34:22-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# scapy
+WARNING: No route found for IPv6 destination :: (no default route?)
+WARNING: IPython not available. Using standard Python shell instead.
+AutoCompletion, History are disabled.
+[32m[1m                                      [0m[34m[1m[0m
+[32m[1m                     aSPY//YASa       [0m[34m[1m[0m
+[32m[1m             apyyyyCY//////////YCa    [0m[34m[1m   |[0m
+[32m[1m            sY//////YSpcs  scpCY//Pp  [0m[34m[1m   | Welcome to Scapy[0m
+[32m[1m ayp ayyyyyyySCP//Pp           syY//C [0m[34m[1m   | Version 2.4.0[0m
+[32m[1m AYAsAYYYYYYYY///Ps              cY//S[0m[34m[1m   |[0m
+[32m[1m         pCCCCY//p          cSSps y//Y[0m[34m[1m   | https://github.com/secdev/scapy[0m
+[32m[1m         SPPPP///a          pP///AC//Y[0m[34m[1m   |[0m
+[32m[1m              A//A            cyP////C[0m[34m[1m   | Have fun![0m
+[32m[1m              p///Ac            sC///a[0m[34m[1m   |[0m
+[32m[1m              P////YCpc           A//A[0m[34m[1m   | Craft packets like I craft my beer.[0m
+[32m[1m       scccccp///pSP///p          p//Y[0m[34m[1m   |               -- Jean De Clerck[0m
+[32m[1m      sY/////////y  caa           S//P[0m[34m[1m   |[0m
+[32m[1m       cayCyayP//Ya              pY/Ya[0m
+[32m[1m        sY/PsY////YCc          aC//Yp [0m
+[32m[1m         sc  sccaCY//PCypaapyCP//YSs  [0m
+[32m[1m                  spCPY//////YPSps    [0m
+[32m[1m                       ccaacs         [0m
+[32m[1m                                      [0m
+[34m[1m>>> [0mlsc()
+IPID_count          : Identify IP id values classes in a list of packets
+arpcachepoison      : Poison target's cache with (your MAC,victim's IP) couple
+arping              : Send ARP who-has requests to determine which hosts are up
+bind_layers         : Bind 2 layers on some specific fields' values
+bridge_and_sniff    : Forward traffic between interfaces if1 and if2, sniff and return
+chexdump            :  Build a per byte hexadecimal representation
+computeNIGroupAddr  : Compute the NI group Address. Can take a FQDN as input parameter
+corrupt_bits        : Flip a given percentage or number of bits from a string
+corrupt_bytes       : Corrupt a given percentage or number of bytes from a string
+defrag              : defrag(plist) -> ([not fragmented], [defragmented],
+defragment          : defrag(plist) -> plist defragmented as much as possible 
+dhcp_request        : --
+dyndns_add          : Send a DNS add message to a nameserver for "name" to have a new "rdata"
+dyndns_del          : Send a DNS delete message to a nameserver for "name"
+etherleak           : Exploit Etherleak flaw
+fletcher16_checkbytes:  Calculates the Fletcher-16 checkbytes returned as 2 byte binary-string.
+fletcher16_checksum :  Calculates Fletcher-16 checksum of the given buffer.
+fragleak            : --
+fragleak2           : --
+fragment            : Fragment a big IP datagram
+fuzz                : Transform a layer into a fuzzy layer by replacing some default values by random objects
+getmacbyip          : Return MAC address corresponding to a given IP address
+getmacbyip6         : Returns the MAC address corresponding to an IPv6 address
+hexdiff             : Show differences between 2 binary strings
+hexdump             :  Build a tcpdump like hexadecimal view
+hexedit             : --
+hexstr              : --
+import_hexcap       : --
+is_promisc          : Try to guess if target is in Promisc mode. The target is provided by its ip.
+linehexdump         :  Build an equivalent view of hexdump() on a single line
+ls                  : List  available layers, or infos on a given layer class or name
+neighsol            : Sends an ICMPv6 Neighbor Solicitation message to get the MAC address of the neighbor with specified IPv6 address addr
+overlap_frag        : Build overlapping fragments to bypass NIPS
+promiscping         : Send ARP who-has requests to determine which hosts are in promiscuous mode
+rdpcap              : Read a pcap or pcapng file and return a packet list
+report_ports        : portscan a target and output a LaTeX table
+restart             : Restarts scapy
+send                : Send packets at layer 3
+sendp               : Send packets at layer 2
+sendpfast           : Send packets at layer 2 using tcpreplay for performance
+sniff               : 
+split_layers        : Split 2 layers previously bound
+sr                  : Send and receive packets at layer 3
+sr1                 : Send packets at layer 3 and return only the first answer
+sr1flood            : Flood and receive packets at layer 3 and return only the first answer
+srbt                : send and receive using a bluetooth socket
+srbt1               : send and receive 1 packet using a bluetooth socket
+srflood             : Flood and receive packets at layer 3
+srloop              : Send a packet at layer 3 in loop and print the answer each time
+srp                 : Send and receive packets at layer 2
+srp1                : Send and receive packets at layer 2 and return only the first answer
+srp1flood           : Flood and receive packets at layer 2 and return only the first answer
+srpflood            : Flood and receive packets at layer 2
+srploop             : Send a packet at layer 2 in loop and print the answer each time
+tcpdump             : Run tcpdump or tshark on a list of packets
+traceroute          : Instant TCP traceroute
+traceroute6         : Instant TCP traceroute using IPv6
+traceroute_map      : Util function to call traceroute on multiple targets, then
+tshark              : Sniff packets and print them calling pkt.summary(), a bit like text wireshark
+wireshark           : Run wireshark on a list of packets
+wrpcap              : Write a list of packets to a pcap file
+[34m[1m>>> [0mexit()
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# ls
+ all_actions.txt   'Initial Project Description'   [0m[01;34mscan_data_files[0m
+ dot11_layers.txt   readme.md                      [01;34mscapy_scripts[0m
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# cat all
+cat: all: No such file or directory
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# cat all_actions.txt 
+Script started on 2019-07-17 19:34:22-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# scapy
+WARNING: No route found for IPv6 destination :: (no default route?)
+WARNING: IPython not available. Using standard Python shell instead.
+AutoCompletion, History are disabled.
+[32m[1m                                      [0m[34m[1m[0m
+[32m[1m                     aSPY//YASa       [0m[34m[1m[0m
+[32m[1m             apyyyyCY//////////YCa    [0m[34m[1m   |[0m
+[32m[1m            sY//////YSpcs  scpCY//Pp  [0m[34m[1m   | Welcome to Scapy[0m
+[32m[1m ayp ayyyyyyySCP//Pp           syY//C [0m[34m[1m   | Version 2.4.0[0m
+[32m[1m AYAsAYYYYYYYY///Ps              cY//S[0m[34m[1m   |[0m
+[32m[1m         pCCCCY//p          cSSps y//Y[0m[34m[1m   | https://github.com/secdev/scapy[0m
+[32m[1m         SPPPP///a          pP///AC//Y[0m[34m[1m   |[0m
+[32m[1m              A//A            cyP////C[0m[34m[1m   | Have fun![0m
+[32m[1m              p///Ac            sC///a[0m[34m[1m   |[0m
+[32m[1m              P////YCpc           A//A[0m[34m[1m   | Craft packets like I craft my beer.[0m
+[32m[1m       scccccp///pSP///p          p//Y[0m[34m[1m   |               -- Jean De Clerck[0m
+[32m[1m      sY/////////y  caa           S//P[0m[34m[1m   |[0m
+[32m[1m       cayCyayP//Ya              pY/Ya[0m
+[32m[1m        sY/PsY////YCc          aC//Yp [0m
+[32m[1m         sc  sccaCY//PCypaapyCP//YSs  [0m
+[32m[1m                  spCPY//////YPSps    [0m
+[32m[1m                       ccaacs         [0m
+[32m[1m                                      [0m
+[34m[1m>>> [0mlsc()
+IPID_count          : Identify IP id values classes in a list of packets
+arpcachepoison      : Poison target's cache with (your MAC,victim's IP) couple
+arping              : Send ARP who-has requests to determine which hosts are up
+bind_layers         : Bind 2 layers on some specific fields' values
+bridge_and_sniff    : Forward traffic between interfaces if1 and if2, sniff and return
+chexdump            :  Build a per byte hexadecimal representation
+computeNIGroupAddr  : Compute the NI group Address. Can take a FQDN as input parameter
+corrupt_bits        : Flip a given percentage or number of bits from a string
+corrupt_bytes       : Corrupt a given percentage or number of bytes from a string
+defrag              : defrag(plist) -> ([not fragmented], [defragmented],
+defragment          : defrag(plist) -> plist defragmented as much as possible 
+dhcp_request        : --
+dyndns_add          : Send a DNS add message to a nameserver for "name" to have a new "rdata"
+dyndns_del          : Send a DNS delete message to a nameserver for "name"
+etherleak           : Exploit Etherleak flaw
+fletcher16_checkbytes:  Calculates the Fletcher-16 checkbytes returned as 2 byte binary-string.
+fletcher16_checksum :  Calculates Fletcher-16 checksum of the given buffer.
+fragleak            : --
+fragleak2           : --
+fragment            : Fragment a big IP datagram
+fuzz                : Transform a layer into a fuzzy layer by replacing some default values by random objects
+getmacbyip          : Return MAC address corresponding to a given IP address
+getmacbyip6         : Returns the MAC address corresponding to an IPv6 address
+hexdiff             : Show differences between 2 binary strings
+hexdump             :  Build a tcpdump like hexadecimal view
+hexedit             : --
+hexstr              : --
+import_hexcap       : --
+is_promisc          : Try to guess if target is in Promisc mode. The target is provided by its ip.
+linehexdump         :  Build an equivalent view of hexdump() on a single line
+ls                  : List  available layers, or infos on a given layer class or name
+neighsol            : Sends an ICMPv6 Neighbor Solicitation message to get the MAC address of the neighbor with specified IPv6 address addr
+overlap_frag        : Build overlapping fragments to bypass NIPS
+promiscping         : Send ARP who-has requests to determine which hosts are in promiscuous mode
+rdpcap              : Read a pcap or pcapng file and return a packet list
+report_ports        : portscan a target and output a LaTeX table
+restart             : Restarts scapy
+send                : Send packets at layer 3
+sendp               : Send packets at layer 2
+sendpfast           : Send packets at layer 2 using tcpreplay for performance
+sniff               : 
+split_layers        : Split 2 layers previously bound
+sr                  : Send and receive packets at layer 3
+sr1                 : Send packets at layer 3 and return only the first answer
+sr1flood            : Flood and receive packets at layer 3 and return only the first answer
+srbt                : send and receive using a bluetooth socket
+srbt1               : send and receive 1 packet using a bluetooth socket
+srflood             : Flood and receive packets at layer 3
+srloop              : Send a packet at layer 3 in loop and print the answer each time
+srp                 : Send and receive packets at layer 2
+srp1                : Send and receive packets at layer 2 and return only the first answer
+srp1flood           : Flood and receive packets at layer 2 and return only the first answer
+srpflood            : Flood and receive packets at layer 2
+srploop             : Send a packet at layer 2 in loop and print the answer each time
+tcpdump             : Run tcpdump or tshark on a list of packets
+traceroute          : Instant TCP traceroute
+traceroute6         : Instant TCP traceroute using IPv6
+traceroute_map      : Util function to call traceroute on multiple targets, then
+tshark              : Sniff packets and print them calling pkt.summary(), a bit like text wireshark
+wireshark           : Run wireshark on a list of packets
+wrpcap              : Write a list of packets to a pcap file
+[34m[1m>>> [0mexit()
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# ls
+ all_actions.txt   'Initial Project Description'   [0m[01;34mscan_data_files[0m
+ dot11_layers.txt   readme.md                      [01;34mscapy_scripts[0m
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# cat all
+cat: all: No such file or directory
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# cat all_actions.txt 
+Script started on 2019-07-17 19:34:22-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# scapy
+WARNING: No route found for IPv6 destination :: (no default route?)
+WARNING: IPython not available. Using standard Python shell instead.
+AutoCompletion, History are disabled.
+[32m[1m                                      [0m[34m[1m[0m
+[32m[1m                     aSPY//YASa       [0m[34m[1m[0m
+[32m[1m             apyyyyCY//////////YCa    [0m[34m[1m   |[0m
+[32m[1m            sY//////YSpcs  scpCY//Pp  [0m[34m[1m   | Welcome to Scapy[0m
+[32m[1m ayp ayyyyyyySCP//Pp           syY//C [0m[34m[1m   | Version 2.4.0[0m
+[32m[1m AYAsAYYYYYYYY///Ps              cY//S[0m[34m[1m   |[0m
+[32m[1m         pCCCCY//p          cSSps y//Y[0m[34m[1m   | https://github.com/secdev/scapy[0m
+[32m[1m         SPPPP///a          pP///AC//Y[0m[34m[1m   |[0m
+[32m[1m              A//A            cyP////C[0m[34m[1m   | Have fun![0m
+[32m[1m              p///Ac            sC///a[0m[34m[1m   |[0m
+[32m[1m              P////YCpc           A//A[0m[34m[1m   | Craft packets like I craft my beer.[0m
+[32m[1m       scccccp///pSP///p          p//Y[0m[34m[1m   |               -- Jean De Clerck[0m
+[32m[1m      sY/////////y  caa           S//P[0m[34m[1m   |[0m
+[32m[1m       cayCyayP//Ya              pY/Ya[0m
+[32m[1m        sY/PsY////YCc          aC//Yp [0m
+[32m[1m         sc  sccaCY//PCypaapyCP//YSs  [0m
+[32m[1m                  spCPY//////YPSps    [0m
+[32m[1m                       ccaacs         [0m
+[32m[1m                                      [0m
+[34m[1m>>> [0mlsc()
+IPID_count          : Identify IP id values classes in a list of packets
+arpcachepoison      : Poison target's cache with (your MAC,victim's IP) couple
+arping              : Send ARP who-has requests to determine which hosts are up
+bind_layers         : Bind 2 layers on some specific fields' values
+bridge_and_sniff    : Forward traffic between interfaces if1 and if2, sniff and return
+chexdump            :  Build a per byte hexadecimal representation
+computeNIGroupAddr  : Compute the NI group Address. Can take a FQDN as input parameter
+corrupt_bits        : Flip a given percentage or number of bits from a string
+corrupt_bytes       : Corrupt a given percentage or number of bytes from a string
+defrag              : defrag(plist) -> ([not fragmented], [defragmented],
+defragment          : defrag(plist) -> plist defragmented as much as possible 
+dhcp_request        : --
+dyndns_add          : Send a DNS add message to a nameserver for "name" to have a new "rdata"
+dyndns_del          : Send a DNS delete message to a nameserver for "name"
+etherleak           : Exploit Etherleak flaw
+fletcher16_checkbytes:  Calculates the Fletcher-16 checkbytes returned as 2 byte binary-string.
+fletcher16_checksum :  Calculates Fletcher-16 checksum of the given buffer.
+fragleak            : --
+fragleak2           : --
+fragment            : Fragment a big IP datagram
+fuzz                : Transform a layer into a fuzzy layer by replacing some default values by random objects
+getmacbyip          : Return MAC address corresponding to a given IP address
+getmacbyip6         : Returns the MAC address corresponding to an IPv6 address
+hexdiff             : Show differences between 2 binary strings
+hexdump             :  Build a tcpdump like hexadecimal view
+hexedit             : --
+hexstr              : --
+import_hexcap       : --
+is_promisc          : Try to guess if target is in Promisc mode. The target is provided by its ip.
+linehexdump         :  Build an equivalent view of hexdump() on a single line
+ls                  : List  available layers, or infos on a given layer class or name]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# 
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# ls
+ all_actions.txt   'Initial Project Description'   [0m[01;34mscan_data_files[0m
+ dot11_layers.txt   readme.md                      [01;34mscapy_scripts[0m
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# vim readme.md 
+[?1000h[?2004h[?1049h[22;0;0t[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H"readme.md" 162L, 7356C[2;1H▽[6n[2;1H  [1;1H[>c]10;?]11;?[1;1H[35m#[m[35m PROJECT DIARY[m
+[35m##[m[35m TODO:[m
+[38;5;130m1.[m I need to find useful documentation for referring to the data elements at eacc[4;1Hh layer accessible with scapy.
+[38;5;130m2.[m Existing radio card is capturing traffic only in 2.5 Ghz range. This is due tt[6;1Ho driver or chipset. Investigate and correct if possible. Otherwise, continue foo[7;1Hr project using this range. Subsequent application to other ranges should be extt[8;1Hensible, given scapy library.
+
+[35m##[m[35m 6/25/2019 Activities[m
+[38;5;130m1.[m Provided initial project submission.
+
+[35m###[m[35m Rationale for project:[m
+
+[38;5;130m1.[m Wireless access is becoming dominant.
+[38;5;130m2.[m here are many wireless signals used: 802.11, 802.15, BlueTooth, Cellular, Zigg[17;1HBee, etc.
+[38;5;130m3.[m Common characteristics are sought to determine vulnerabilities and hardening  [19;1Htechniques.
+[38;5;130m4.[m Selected spectrum for this project is 802.11 due to availability of wireless  [21;1Hcards with necessary capabilities. Selected card should be used to permit monitoo[22;1Hr mode andpacket injection.[24;63H1,1[11CTop[1;1H[?25hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?1000l[?1006h[?1002h[?1006l[?1002l[?1006h[?1002h[?25l[24;63H9,26[13;26H[?25h[?25l[24;53H~@k[13;26H[24;53H   [14;1H[24;63H10,0-1[14;1H[?25h[?25l[24;53H~@k[14;1H[24;53H   [15;40H[24;64H1,40 [15;40H[?25h[?25l[24;53H~@k[15;40H[24;53H   [16;76H[24;64H2,76[16;76H[?25h[?25l[24;53H~@k[16;76H[24;53H   [17;76H[1;23r[23;1H
+[1;24r[23;1H[35m##[m[35m 6/27-28/2019 Activities:[m[24;1H[K[24;63H13,76[10C0%[17;76H[?25h[?25l[24;53H~@k[17;76H[24;53H   [12;76H[1;23r[1;1H[7M[1;24r[17;1H[38;5;130m1.[m Ordered and received wireless card with monitor mode and packet injection capp[18;1Hability.
+Wireless card type: SimpleWiFi Adapter Card Model N124-700, with chipset Ralink  [20;1HRT3070L, 802.11 b/g/n.
+[38;5;130m2.[m This card was seleted based upon multiple recommendations and successful demoo[22;1Hnstrations. This particular card does not address 802.11 ac, which can be explorr[23;1Hed at a later time.[24;63H[K[24;63H14,76[10C2%[12;76H[?25h[?25l[24;53H~@k[12;76H[24;53H   [15;1H[24;64H5,0-1[15;1H[?25h[?25l[24;53H~@k[15;1H[24;53H   [16;27H[24;64H6,27 [16;27H[?25h[?25l[24;53H~@k[16;27H[24;53H   [17;76H[24;64H7,76[17;76H[?25h[?25l[24;53H~@k[17;76H[24;53H   [17;76H[1;23r[1;1H[2M[1;24r[23;1H[35m##[m[35m 6/30/2019 - 7/1/2019  Activities[m[24;63H[K[24;63H18,76[10C4%[17;76H[?25h[?25l[24;53H~@k[17;76H[24;53H   [14;76H[1;23r[1;1H[5M[1;24r[19;1HWorked with libraries and internet documentation to discern which information abb[20;1Hout 802.11 signals may be discerned, captured and analyzed with existing utilitii[21;1Hes. There are many libraries available, of varying use and maturity. My effort ww[22;1Hill be to implement some of the capabilities via Python mudules, initially  withh[23;1H Scapy module.[24;63H[K[24;63H19,76[10C7%[14;76H[?25h[?25l[24;53H~@k[14;76H[24;53H   [17;1H[24;63H20,0-1[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;35H[24;64H1,35 [18;35H[?25h[?25l[24;53H~@k[18;35H[24;53H   [12;76H[1;23r[1;1H[7M[1;24r[18;1H[35m##[m[35m 7/2/2019-7/5-2019 Activities[m
+
+[35m###[m[35m Wireless Utility Practice[m
+
+[38;5;130m-[m Practiced repeatedly with the following commands to:
+[38;5;130m-[m Examined how a card is placed in monitor mode.[24;63H[K[24;63H22,76[10C9%[12;76H[?25h[?25l[24;53H~@k[12;76H[24;53H   [17;1H[24;64H3,0-1[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;31H[24;64H4,31 [18;31H[?25h[?25l[24;53H~@k[18;31H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m-[m Viewed the locally available AP's and STA's.[24;63H[K[24;63H25,0-1[8C10%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;29H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m-[m Selected an AP for disassociation and reassociation.[24;63H[K[24;63H26,29[9C10%[18;29H[?25h[?25l[24;53H~@k[18;29H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;1H[38;5;130m-[m Captured the IV and associated traffic.
+[38;5;130m-[m Used a password cracking tool to attempt cracking the PSK for the respective A[23;1H[94m@@@                                                                             [m[24;63H[K[24;63H27,0-1[8C11%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;54H[24;64H8,54 [18;54H[?25h[?25l[24;53H~@k[18;54H[24;53H   [17;48H[1;23r[1;1H[2M[1;24r[21;1H[38;5;130m-[m Used a password cracking tool to attempt cracking the PSK for the respective AA[22;1HP.[24;63H[K[24;63H29,48[9C12%[17;48H[?25h[?25l[24;53H~@k[17;48H[24;53H   [18;46H[24;63H30,46[18;46H[?25h[?25l[24;53H~@k[18;46H[24;53H   [16;54H[1;23r[1;1H[3M[1;24r[21;1H[1m[3m______[23m[m[97m[101m________________________________[m[3m_[23m
+
+[35m###[m[35m Commands:[m[24;63H[K[24;63H31,54[9C13%[16;54H[?25h[?25l[24;53H~@k[16;54H[24;53H   [17;41H[24;64H2,41[17;41H[?25h[?25l[24;53H~@k[17;41H[24;53H   [17;76H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m-[m[3m ifconfig -a                   # look for wlan adapter[23m[24;63H[K[24;63H33,76[9C13%[17;76H[?25h[?25l[24;53H~@k[17;76H[24;53H   [13;1H[1;23r[1;1H[6M[1;24r[18;1H[38;5;130m-[m[3m lsmod                         # look for drivers for LAN card RT2800XXX driverr[19;1Hs[23m
+[38;5;130m-[m[3m ifconfig wlan0 up             # turn on WLAN, check for up in ifconfig -a WLANN[21;1H adapter[23m
+[38;5;130m-[m[3m airmon-ng                     # status check[23m
+[38;5;130m-[m[3m airmon-ng check kill          # disable peer processes which may interfere w/ [23m[23;1H[94m@@@                                                                             [m[24;63H[K[24;63H34,0-1[8C15%[13;1H[?25h[?25l[24;53H~@k[13;1H[24;53H   [14;39H[24;64H5,39 [14;39H[?25h[?25l[24;53H~@k[14;39H[24;53H   [15;1H[24;64H6,0-1[15;1H[?25h[?25l[24;53H~@k[15;1H[24;53H   [16;13H[24;64H7,13 [16;13H[?25h[?25l[24;53H~@k[16;13H[24;53H   [17;55H[24;64H8,41-55[17;55H[?25h[?25l[24;53H~@k[17;55H[24;53H   [17;76H[1;23r[23;1H
+[1;24r[22;1H[38;5;130m-[m[3m airmon-ng check kill          # disable peer processes which may interfere w/  [23;1Hmon mode[23m[24;63H[K[24;63H39,55-76      16%[17;76H[?25h[?25l[24;53H~@k[17;76H[24;53H   [17;76H[1;23r[1;1H[2M[1;24r[22;1H[38;5;130m-[m[3m airmon-ng start wlan0         # places WLAN in monitor mode. ifconfig -a       [23;1H                                 #[23m[24;63H[K[24;63H40,66-76      17%[17;76H[?25h[?25l[24;53H~@k[17;76H[24;53H   [18;46H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m-[m[3m airodump-ng wlan0mon          # see Access Points around you[23m[24;63H[K[24;63H41,29-46      18%[18;46H[?25h[?25l[24;53H~@k[18;46H[24;53H   [16;76H[1;23r[1;1H[3M[1;24r[21;1H[38;5;130m-[m[3m airodump-ng                   # lists all options[23m
+[38;5;130m-[m[3m airmon-ng stop wlan0mon       # To return to managed mode (remember the managee[23;1Hd service processes may not be running)[23m[24;63H[K[24;63H42,69-76      20%[16;76H[?25h[?25l[24;53H~@k[16;76H[24;53H   [17;80H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H43,69-80      20%[17;80H[?25h[?25l[24;53H~@k[17;80H[24;53H   [18;62H[1;23r[23;1H
+[1;24r[23;1H[3mNotes:[23m[24;63H[K[24;63H44,55-62      21%[18;62H[?25h[?25l[24;53H~@k[18;62H[24;53H   [18;51H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m-[m[3m Terminal commands in Kali do not exactly match those presented in BT video.[23m[24;63H[K[24;63H45,35-51      22%[18;51H[?25h[?25l[24;53H~@k[18;51H[24;53H   [17;76H[1;23r[1;1H[2M[1;24r[22;1H[38;5;130m-[m[3m Once wlan0 is placed into monitor mode, refer to it as wlan0mon card.[23m
+[38;5;130m-[m[3m Card can work in one band, one channel at a time. My card is b/g/n .[23m[24;63H[K[24;63H46,70-76      22%[17;76H[?25h[?25l[24;53H~@k[17;76H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m-[m[3m Placing card in monitor mode disables internet access.[23m[24;63H[K[24;63H47,0-1[8C23%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;6H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m-[m[3m Use airodump-ng  before looking for beacon broadcast in Wireshark.[23m[24;63H[K[24;63H48,6[10C24%[18;6H[?25h[?25l[24;53H~@k[18;6H[24;53H   [18;76H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H49,76[9C25%[18;76H[?25h[?25l[24;53H~@k[18;76H[24;53H   [18;71H[1;23r[23;1H
+[1;24r[23;1H[3mInjecting beacon frames:[23m[24;63H[K[24;63H50,71[9C25%[18;71H[?25h[?25l[24;53H~@k[18;71H[24;53H   [16;70H[1;23r[1;1H[3M[1;24r[21;1H[38;5;130m-[m[3m Using mdk3 currently as the utility to inject packets (beacon fales AP, DDOS,  [22;1Hetc.)[23m
+[38;5;130m-[m[3m After placing card into monitor mode[23m[24;63H[K[24;63H51,70[9C27%[16;70H[?25h[?25l[24;53H~@k[16;70H[24;53H   [17;56H[24;64H2,56[17;56H[?25h[?25l[24;53H~@k[17;56H[24;53H   [18;68H[24;64H3,68[18;68H[?25h[?25l[24;53H~@k[18;68H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;1H[38;5;130m-[m[3m mdk3 wlan0mon b -n P0wned[23m
+[38;5;130m-[m[3m ** Many features in mdk3 - spend time here[23m[24;63H[K[24;63H54,0-1[8C27%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;24H[24;64H5,24 [18;24H[?25h[?25l[24;53H~@k[18;24H[24;53H   [16;76H[1;23r[1;1H[3M[1;24r[21;1H[38;5;130m-[m[3m 802.11 AP beacon flooding supports a misassociation attack[23m[24;63H[K[24;63H56,76[9C29%[16;76H[?25h[?25l[24;53H~@k[16;76H[24;53H   [18;38H[24;64H7,38[18;38H[?25h[?25l[24;53H~@k[18;38H[24;53H   [17;27H[1;23r[1;1H[2M[1;24r[22;1H[3mDisassociating and capturing IV for decrypting:[23m
+[38;5;130m-[m[3m Solid example: https://www.youtube.com/watch?v=zAWcu3NQLME[23m[24;63H[K[24;63H58,27[9C30%[17;27H[?25h[?25l[24;53H~@k[17;27H[24;53H   [18;44H[24;64H9,44[18;44H[?25h[?25l[24;53H~@k[18;44H[24;53H   [18;60H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m-[m[3m https://www.youtube.com/watch?v=ewBSTJJppmI[23m[24;63H[K[24;63H60,60[9C31%[18;60H[?25h[?25l[24;53H~@k[18;60H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m-[m[3m Review these videos: https://www.youtube.com/channel/UC_[23mMuHQPbf3EatJc7M6nDTlQ[24;63H[K[24;63H61,0-1[8C31%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;1H[38;5;130m-[m After setup above, and determinationrmination of channels and SSIDs[24;63H[K[24;63H62,0-1[8C32%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;47H[24;64H3,47 [18;47H[?25h[?25l[24;53H~@k[18;47H[24;53H   [18;60H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m-[m  #airodump -c 4 -w /root/dump[97m[101m_[minfo.txt --bssid B0:7F:B9:DC:2E:BB wlan0mon[24;63H[K[24;63H64,60[9C33%[18;60H[?25h[?25l[24;53H~@k[18;60H[24;53H   [18;45H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H65,45[9C34%[18;45H[?25h[?25l[24;53H~@k[18;45H[24;53H   [18;76H[1;23r[23;1H
+[1;24r[23;1H[1m[3m______[23m[m[97m[101m_________________________________[m[3m_[23m[24;63H[K[24;63H66,76[9C35%[18;76H[?25h[?25l[24;53H~@k[18;76H[24;53H   [18;69H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H67,69[9C35%[18;69H[?25h[?25l[24;53H~@k[18;69H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[35m##[m[35m 7/12/2019 - 7/13/2019 Activities[m[24;63H[K[24;63H68,0-1[8C36%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;75H[1;23r[1;1H[2M[1;24r[22;1H[38;5;130m-[m[3m Wrote small Scapy scripts to familiarize myself with the capabilities and synyy[23;1Hax.[23m[24;63H[K[24;63H69,75[9C37%[17;75H[?25h[?25l[24;53H~@k[17;75H[24;53H   [18;1H[24;63H70,0-1[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;40H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m-[m[3m Followed several tutorials regarding Scapy.[23m[24;63H[K[24;63H71,40[9C38%[18;40H[?25h[?25l[24;53H~@k[18;40H[24;53H   [16;1H[1;23r[1;1H[3M[1;24r[21;1H[38;5;130m-[m[3m Worked the aricrack-ng workflow and defined idealized capabilities for my projj[22;1Hect scripts.[23m[24;63H[K[24;63H72,0-1[8C39%[16;1H[?25h[?25l[24;53H~@k[16;1H[24;53H   [17;35H[24;64H3,35 [17;35H[?25h[?25l[24;53H~@k[17;35H[24;53H   [17;76H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H74,76[9C40%[17;76H[?25h[?25l[24;53H~@k[17;76H[24;53H   [18;45H[1;23r[23;1H
+[1;24r[23;1H[35m##[m[35m Notes for research, practice, exploration and tool development.[m[24;63H[K[24;63H75,45[9C41%[18;45H[?25h[?25l[24;53H~@k[18;45H[24;53H   [16;76H[1;23r[1;1H[3M[1;24r[21;1H[35m###[m[35m Sources:[m
+[38;5;130m1.[m[3m Ramachandran, V. (15 Jul 2019) "Scripting Wi-Fi Pentesting Tools in Python",  [23;1Hretrieved from https://www.pentesteracademy.com/course?id=14[23m[24;63H[K[24;63H76,76[9C42%[16;76H[?25h[?25l[24;53H~@k[16;76H[24;53H   [18;1H[24;64H7,0-1[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;1H[1;23r[1;1H[2M[1;24r[22;1H[38;5;130m2.[m[3m Scapy Project Documentation, (10 Jul 2019) "Packet crafting for Python2 and PP[23;1Hython3", retrieved from https://scapy.net/[23m[24;63H[K[24;63H78,0-1[8C44%[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [18;66H[24;64H9,66 [18;66H[?25h[?25l[24;53H~@k[18;66H[24;53H   [17;12H[1;23r[1;1H[2M[1;24r[22;1H[38;5;130m3.[m[3m Welcome to Scapy’[22;21Hs documentation!, (10 Jul 2019) "Scapy", retrieved from httpp[23;1Hs://scapy.readthedocs.io/en/latest/[23m[24;63H[K[24;63H80,12[9C45%[17;12H[?25h[?25l[24;53H~@k[17;12H[24;53H   [17;76H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m4.[m[3m Wood, M. (8 Jul 2019), "Scapy", retrieved from "https://thepacketgeek.com/"[23m[24;63H[K[24;63H81,76[9C45%[17;76H[?25h[?25l[24;53H~@k[17;76H[24;53H   [17;76H[1;23r[1;1H[2M[1;24r[23;1H[35m###[m[35m Options to exploit with available toolsets:[m[24;63H[K[24;63H82,76[9C47%[17;76H[?25h[?25l[24;53H~@k[17;76H[24;53H   [17;76H[1;23r[1;1H[2M[1;24r[22;1H[38;5;130m1.[m[3m Existing utilities and tools (aircrack-ng, pineapple, etc.)[23m
+[38;5;130m2.[m[3m Raw Sockets[23m[24;63H[K[24;63H83,78-76      48%[17;76H[?25h[?25l[24;53H~@k[17;76H[24;53H   [18;76H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m3.[m[3m Scapy library approach - built upon Raw Sockets[23m[24;63H[K[24;63H84,76[9C49%[18;76H[?25h[?25l[24;53H~@k[18;76H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m4.[m[3m Scapy supports many protocols, we will use utilities associated with 802.11.[23m[24;63H[K[24;63H85,0-1[8C50%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;47H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H86,47[9C50%[18;47H[?25h[?25l[24;53H~@k[18;47H[24;53H   [17;62H[1;23r[1;1H[2M[1;24r[17;33H[3m[106m([28C)[23m[m[22;1H[35m###[m[35m Initial effort to develop workflow for using Scapy in interactive mode:[m
+[38;5;130m1.[m[3m Place attached wireless card in monitor mode[23m[24;63H[K[24;63H87,62[9C51%[17;62H[?25h[?25l[24;53H~@k[17;62H[24;53H   [18;14H[17;33H[3m([28C)[23m[24;64H8,14[18;14H[?25h[?25l[24;53H~@k[18;14H[24;53H   [18;50H[1;23r[23;1H
+[1;24r[23;1H[3mairmon-ng check kill[23m[24;63H[K[24;63H89,50[9C52%[18;50H[?25h[?25l[24;53H~@k[18;50H[24;53H   [17;76H[1;23r[1;1H[2M[1;24r[22;1H[3mairmon-ng start wlan0mon (or as req'd for specific card)
+airodump wlan0mon (turn on shortly to ensure packet capture is working)[23m[24;63H[K[24;63H90,76[9C53%[17;76H[?25h[?25l[24;53H~@k[17;76H[24;53H   [18;1H[24;64H1,0-1[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;75H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H92,75[9C54%[18;75H[?25h[?25l[24;53H~@k[18;75H[24;53H   [18;47H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m2.[m[3m Launch scapy for monitor mode[23m[24;63H[K[24;63H93,47[9C54%[18;47H[?25h[?25l[24;53H~@k[18;47H[24;53H   [18;20H[1;23r[23;1H
+[1;24r[23;1H[3mScapy cannot do channel hopping. It must be done with airmon-ng[23m[24;63H[K[24;63H94,20[9C55%[18;20H[?25h[?25l[24;53H~@k[18;20H[24;53H   [18;56H[1;23r[23;1H
+[1;24r[18;26H[3m[106m([29C)[23m[m[23;1H[3m```[23m[24;63H[K[24;63H95,56[9C56%[18;56H[?25h[?25l[24;53H~@k[18;56H[24;53H   [17;71H[1;23r[1;1H[2M[1;24r[16;26H[3m([29C)[23m[17;19H[3m[106m([51C)[23m[m[22;1H[35m#[m[35mscapy[m
+[3m>>>conf   ( lists config settings for scapy)[23m[24;63H[K[24;63H96,71[9C57%[17;71H[?25h[?25l[24;53H~@k[17;71H[24;53H   [18;1H[17;19H[3m([51C)[23m[24;64H7,0-1[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;32H[1;23r[1;1H[2M[1;24r[22;1H[3m>>>conf.iface=wlan0mon (set iface for scapy)
+>>>wifiPkts = sniff(count=1)[23m[24;63H[K[24;63H98,32[9C58%[17;32H[?25h[?25l[24;53H~@k[17;32H[24;53H   [18;63H[24;64H9,63[18;63H[?25h[?25l[24;53H~@k[18;63H[24;53H   [17;3H[1;23r[1;1H[2M[1;24r[22;1H[3m>>>wifiPkts (will list contents)
+>>>wifiPkts.summary()   (lists summary of sniff session)[23m[24;63H[K[24;63H100,3[9C59%[17;3H[?25h[?25l[24;53H~@k[17;3H[24;53H   [18;6H[24;65H1,6[18;6H[?25h[?25l[24;53H~@k[18;6H[24;53H   [18;44H[1;23r[23;1H
+[1;24r[18;11H[3m[106m([32C)[23m[m[23;1H[3m>>>wifiPkts.nsummary() (lists summary with a line number)[23m[24;63H[K[24;63H102,44[8C60%[18;44H[?25h[?25l[24;53H~@k[18;44H[24;53H   [18;44H[1;23r[23;1H
+[1;24r[17;11H[3m([32C)[23m[18;24H[3m[106m([19C)[23m[m[23;1H[3m>>>wifiPkts.hexdump() (lists summary in hex)[23m[24;63H[K[24;63H103,44[8C61%[18;44H[?25h[?25l[24;53H~@k[18;44H[24;53H   [18;28H[1;23r[23;1H
+[1;24r[17;24H[3m([19C)[23m[18;20H[3m[106m([7C)[23m[m[23;1H[3m```[23m[24;63H[K[24;63H104,28[8C61%[18;28H[?25h[?25l[24;53H~@k[18;28H[24;53H   [18;32H[1;23r[23;1H
+[1;24r[17;20H[3m([7C)[23m[18;13H[3m[106m([18C)[23m[m[24;63H[K[24;63H105,32[8C62%[18;32H[?25h[?25l[24;53H~@k[18;32H[24;53H   [18;56H[1;23r[23;1H
+[1;24r[17;13H[3m([18C)[23m[18;25H[3m[106m([30C)[23m[m[23;1H[35m###[m[35m Workflow for using Scapy in scripting mode[m[24;63H[K[24;63H106,56[8C63%[18;56H[?25h[?25l[24;53H~@k[18;56H[24;53H   [18;57H[1;23r[23;1H
+[1;24r[17;25H[3m([30C)[23m[18;24H[3m[106m([32C)[23m[m[23;1H[3mPotential uses:[23m[24;63H[K[24;63H107,57[8C64%[18;57H[?25h[?25l[24;53H~@k[18;57H[24;53H   [18;44H[1;23r[23;1H
+[1;24r[17;24H[3m([32C)[23m[18;23H[3m[106m([20C)[23m[m[23;1H[38;5;130m1.[m[3m packet processor[23m[24;63H[K[24;63H108,44[8C64%[18;44H[?25h[?25l[24;53H~@k[18;44H[24;53H   [18;3H[1;23r[23;1H
+[1;24r[17;23H[3m([20C)[23m[23;1H[38;5;130m2.[m[3m parse, analyze, act[23m[24;63H[K[24;63H109,3[9C65%[18;3H[?25h[?25l[24;53H~@k[18;3H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m3.[m[3m callback function[23m[24;63H[K[24;63H110,0-1[7C66%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;46H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H111,46[8C66%[18;46H[?25h[?25l[24;53H~@k[18;46H[24;53H   [18;15H[1;23r[23;1H
+[1;24r[23;1H[35m##[m[35m 15 Jul 2019 Activities[m[24;63H[K[24;63H112,15[8C67%[18;15H[?25h[?25l[24;53H~@k[18;15H[24;53H   [18;19H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H113,19[8C68%[18;19H[?25h[?25l[24;53H~@k[18;19H[24;53H   [18;22H[1;23r[23;1H
+[1;24r[23;1H[35m###[m[35m Workflow for today[m[24;63H[K[24;63H114,22[8C69%[18;22H[?25h[?25l[24;53H~@k[18;22H[24;53H   [18;20H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m1.[m[3m Scan local STA's for promiscuous mode[23m[24;63H[K[24;63H115,20[8C69%[18;20H[?25h[?25l[24;53H~@k[18;20H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m2.[m[3m getmacbyip may be useful[23m[24;63H[K[24;63H116,0-1[7C70%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;25H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H117,25[8C71%[18;25H[?25h[?25l[24;53H~@k[18;25H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[35m###[m[35m Understanding layers in Scapy[m[24;63H[K[24;63H118,0-1[7C71%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;22H[1;23r[1;1H[2M[1;24r[22;1H[38;5;130m1.[m[3m Information regarding the data types and structure of scapy layers is revealee[23;1Hd with the ls command. Ex:[23m[24;63H[K[24;63H119,22[8C72%[17;22H[?25h[?25l[24;53H~@k[17;22H[24;53H   [18;40H[24;64H20,40[18;40H[?25h[?25l[24;53H~@k[18;40H[24;53H   [18;27H[1;23r[23;1H
+[1;24r[23;1H[3m```[23m[24;63H[K[24;63H121,27[8C73%[18;27H[?25h[?25l[24;53H~@k[18;27H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[3m>>>ls(RadioTap)[23m[24;63H[K[24;63H122,0-1[7C74%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;33H[1;23r[23;1H
+[1;24r[23;1H[3m>>>ls(Dot11)[23m[24;63H[K[24;63H123,33[8C75%[18;33H[?25h[?25l[24;53H~@k[18;33H[24;53H   [17;76H[1;23r[1;1H[2M[1;24r[22;1H[3m>>>ls(Dot11Beacon)
+>>>ls(Dot11Ely)[23m[24;63H[K[24;63H124,76[8C76%[17;76H[?25h[?25l[24;53H~@k[17;76H[24;53H   [18;3H[1;23r[23;1H
+[1;24r[23;1H[3m```[23m[24;63H[K[24;63H125,3[9C77%[18;3H[?25h[?25l[24;53H~@k[18;3H[24;53H   [18;15H[1;23r[23;1H
+[1;24r[18;6H[3m[106m([8C)[23m[m[24;63H[K[24;63H126,15[8C77%[18;15H[?25h[?25l[24;53H~@k[18;15H[24;53H   [17;12H[1;23r[1;1H[2M[1;24r[16;6H[3m([8C)[23m[17;6H[3m[106m([5C)[23m[m[22;1H[38;5;130m2.[m[3m The content (not structure) of a packet can be extracted with the ls command  [23;1Hand then the packet variable, NOT field name.[23m[24;63H[K[24;63H127,12[8C78%[17;12H[?25h[?25l[24;53H~@k[17;12H[24;53H   [18;18H[17;6H[3m(Dot11)[23m[18;6H[3m[106m([11C)[23m[m[24;65H8,18[18;18H[?25h[?25l[24;53H~@k[18;18H[24;53H   [18;15H[1;23r[23;1H
+[1;24r[17;6H[3m([11C)[23m[18;6H[3m[106m([8C)[23m[m[23;1H[3mTo work your way up through the layers:[23m[24;63H[K[24;63H129,15[8C79%[18;15H[?25h[?25l[24;53H~@k[18;15H[24;53H   [18;3H[1;23r[23;1H
+[1;24r[17;6H[3m([8C)[23;1H```[23m[24;63H[K[24;63H130,3[9C80%[18;3H[?25h[?25l[24;53H~@k[18;3H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[3m>>>pkt.payload  then[23m[24;63H[K[24;63H131,0-1[7C80%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [17;76H[1;23r[1;1H[2M[1;24r[22;1H[3m>>>.pkt.payload.payload...
+```[23m[24;63H[K[24;63H132,76[8C82%[17;76H[?25h[?25l[24;53H~@k[17;76H[24;53H   [18;39H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H133,39[8C82%[18;39H[?25h[?25l[24;53H~@k[18;39H[24;53H   [18;3H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m3.[m[3m You can reverse the payload, with the .undelayer command[23m[24;63H[K[24;63H134,3[9C83%[18;3H[?25h[?25l[24;53H~@k[18;3H[24;53H   [18;20H[1;23r[23;1H
+[1;24r[23;1H[3m.payload goes up[23m[24;63H[K[24;63H135,20[8C84%[18;20H[?25h[?25l[24;53H~@k[18;20H[24;53H   [18;26H[1;23r[23;1H
+[1;24r[23;1H[3m.underlayer goes down[23m[24;63H[K[24;63H136,26[8C85%[18;26H[?25h[?25l[24;53H~@k[18;26H[24;53H   [18;3H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H137,3[9C85%[18;3H[?25h[?25l[24;53H~@k[18;3H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m4.[m[3m Using a loop, it is possible to iterate up or down the scapy stack.[23m[24;63H[K[24;63H138,0-1[7C86%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;59H[1;23r[23;1H
+[1;24r[23;1H[3m```[23m[24;63H[K[24;63H139,59[8C87%[18;59H[?25h[?25l[24;53H~@k[18;59H[24;53H   [17;16H[1;23r[1;1H[2M[1;24r[22;1H[3m>>>temp = pkt
+>>>while temp:[23m[24;63H[K[24;63H140,16[8C88%[17;16H[?25h[?25l[24;53H~@k[17;16H[24;53H   [18;21H[24;65H1,21[18;21H[?25h[?25l[24;53H~@k[18;21H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[3m>>>...    print(temp.name)[23m[24;63H[K[24;63H142,0-1[7C89%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;70H[1;23r[23;1H
+[1;24r[23;1H[3m>>>...    temp = temp.payload[23m[24;63H[K[24;63H143,70[8C90%[18;70H[?25h[?25l[24;53H~@k[18;70H[24;53H   [18;3H[1;23r[23;1H
+[1;24r[23;1H[3m```[23m[24;63H[K[24;63H144,3[9C90%[18;3H[?25h[?25l[24;53H~@k[18;3H[24;53H   [18;13H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H145,13[8C91%[18;13H[?25h[?25l[24;53H~@k[18;13H[24;53H   [18;14H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m5.[m[3m It is possible to extract the SSID from the beacon layer, using this syntax:[23m[24;63H[K[24;63H146,14[8C92%[18;14H[?25h[?25l[24;53H~@k[18;14H[24;53H   [17;26H[1;23r[1;1H[2M[1;24r[17;16H[3m[106m([9C)[23m[m[22;1H[3mpkt.payload.payload.payload.info   (remember .name is the name of the protocol,  [23;1H.info provides the contents)[23m[24;63H[K[24;63H147,26[8C92%[17;26H[?25h[?25l[24;53H~@k[17;26H[24;53H   [18;29H[17;16H[3m([9C)[23m[24;65H8,29[18;29H[?25h[?25l[24;53H~@k[18;29H[24;53H   [17;3H[1;23r[1;1H[2M[1;24r[22;1H[38;5;130m6.[m[3m Can also get the similar info, using the command .getlayer[23m
+[38;5;130m7.[m[3m It is also possible to check for layers, using the .haslayer(xx) info[23m[24;63H[K[24;63H149,3[9C94%[17;3H[?25h[?25l[24;53H~@k[17;3H[24;53H   [18;1H[24;64H50,0-1[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;76H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H151,76[8C95%[18;76H[?25h[?25l[24;53H~@k[18;76H[24;53H   [17;76H[1;23r[1;1H[2M[1;24r[22;1H[35m###[m[35m Individual script development to learn more about Scapy and to build Scapy tt[23;1Hools.[m[24;63H[K[24;63H152,76[8C95%[17;76H[?25h[?25l[24;53H~@k[17;76H[24;53H   [17;61H[1;23r[1;1H[2M[1;24r[22;1H[38;5;130m1.[m[3m Created basic PacketHandler script to sniff and print summaries of captured pp[23;1Hackets (filename: packethandler.py)[23m[24;63H[K[24;63H153,61[8C96%[17;61H[?25h[?25l[24;53H~@k[17;61H[24;53H   [18;72H[24;65H4,72[18;72H[?25h[?25l[24;53H~@k[18;72H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H155,0-1[7C97%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [16;76H[1;23r[1;1H[3M[1;24r[21;1H[35m##[m[35m 7/16/2019 Activities[m
+[38;5;130m1.[m[3m Completed first two scripts to monitor ambient wireless trafffic and sniff daa[23;1Hta from the signals. The first script was for geeneral capture.[23m[24;63H[K[24;63H156,76[8C98%[16;76H[?25h[?25l[24;53H~@k[16;76H[24;53H   [16;76H[1;23r[1;1H[2M[1;24r[22;1H[3mThe second script was to extract info and labels from the traffic. (.11 traffic  [23;1Hand MAC address)[23m[24;63H[K[24;63H157,76[8C99%[16;76H[?25h[?25l[24;53H~@k[16;76H[24;53H   [18;1H[24;65H8,0-1[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;23H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m2.[m[3m The fields and structure available for extraction are considerable. [23m[24;63H[K[24;63H159,23[8CBot[18;23H[?25h[?25l[24;53H~@k[18;23H[24;53H   [19;76H[24;64H60,76[19;76H[?25h[?25l[24;53H~@k[19;76H[24;53H   [21;76H[24;65H1[21;76H[?25h[?25l[24;53H~@k[21;76H[24;53H   [23;71H[24;65H2,71[23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;64H57,56[15;56H[?25h[?25l[24;53H~@k[15;56H[24;53H   [17;1H[24;65H8,0-1[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [15;56H[24;65H7,56 [15;56H[?25h[?25l[24;53H~@k[15;56H[24;53H   [13;56H[24;65H6[13;56H[?25h[?25l[24;53H~@k[13;56H[24;53H   [12;1H[24;65H5,0-1[12;1H[?25h[?25l[24;53H~@k[12;1H[24;53H   [11;56H[24;65H4,56 [11;56H[?25h[?25l[24;53H~@k[11;56H[24;53H   [10;56H[24;65H3[10;56H[?25h[?25l[24;53H~@k[10;56H[24;53H   [8;56H[24;65H2[8;56H[?25h[?25l[24;53H~@k[8;56H[24;53H   [7;56H[24;65H1[7;56H[?25h[?25l[24;53H~@k[7;56H[24;53H   [6;1H[24;65H0,0-1[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;3H[1;23r[1;1H[L[1;24r[1;1H[3m```[23m[24;63H[K[24;63H149,3[9C99%[6;3H[?25h[?25l[24;53H~@k[6;3H[24;53H   [6;29H[1;23r[1;1H[L[1;24r[1;1H[38;5;130m4.[m[3m Using a loop, it is possible to iterate up or down the scapy stack.[23m[23;1H[94m@@@                                                                             [m[24;63H[K[24;63H148,29[8C98%[6;29H[?25h[?25l[24;53H~@k[6;29H[24;53H   [6;26H[1;23r[1;1H[L[1;24r[6;16H[3m[106m([9C)[23m[m[24;63H[K[24;63H147,26[8C98%[6;26H[?25h[?25l[24;53H~@k[6;26H[24;53H   [6;14H[1;23r[1;1H[L[1;24r[1;1H[3m.underlayer goes down[7;16H([9C)[23m[23;1H[94m@@@                                                                             [m[24;63H[K[24;63H146,14[8C97%[6;14H[?25h[?25l[24;53H~@k[6;14H[24;53H   [6;13H[1;23r[1;1H[L[1;24r[1;1H[3m.payload goes up[23m[24;63H[K[24;63H145,13[8C97%[6;13H[?25h[?25l[24;53H~@k[6;13H[24;53H   [6;3H[1;23r[1;1H[L[1;24r[1;1H[38;5;130m3.[m[3m You can reverse the payload, with the .undelayer command[23m[24;63H[K[24;63H144,3[9C97%[6;3H[?25h[?25l[24;53H~@k[6;3H[24;53H   [6;56H[1;23r[1;1H[L[1;24r[24;63H[K[24;63H143,56[8C96%[6;56H[?25h[?25l[24;53H~@k[6;56H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[1;1H[3m```[23m[23;1H[94m@@@                                                                             [m[24;63H[K[24;63H142,0-1[7C95%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;21H[1;23r[1;1H[L[1;24r[1;1H[3m>>>.pkt.payload.payload...[23m[24;63H[K[24;63H141,21[8C95%[6;21H[?25h[?25l[24;53H~@k[6;21H[24;53H   [6;16H[1;23r[1;1H[L[1;24r[1;1H[3m>>>pkt.payload  then[23m[23;1H[94m@@@                                                                             [m[24;63H[K[24;63H140,16[8C95%[6;16H[?25h[?25l[24;53H~@k[6;16H[24;53H   [6;56H[1;23r[1;1H[L[1;24r[1;1H[3m```[23m[24;63H[K[24;63H139,56[8C95%[6;56H[?25h[?25l[24;53H~@k[6;56H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[1;1H[3mTo work your way up through the layers:[23m[24;63H[K[24;63H138,0-1[7C94%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [7;3H[1;23r[1;1H[2L[1;24r[1;1H[38;5;130m2.[m[3m The content (not structure) of a packet can be extracted with the ls command  [2;1Hand then the packet variable, NOT field name.[23m[24;63H[K[24;63H137,3[9C92%[7;3H[?25h[?25l[24;53H~@k[7;3H[24;53H   [6;26H[24;65H6,26[6;26H[?25h[?25l[24;53H~@k[6;26H[24;53H   [6;20H[1;23r[1;1H[L[1;24r[23;1H[94m@@@                                                                             [m[24;63H[K[24;63H135,20[8C92%[6;20H[?25h[?25l[24;53H~@k[6;20H[24;53H   [6;3H[1;23r[1;1H[L[1;24r[1;1H[3m```[23m[24;63H[K[24;63H134,3[9C92%[6;3H[?25h[?25l[24;53H~@k[6;3H[24;53H   [6;39H[1;23r[1;1H[L[1;24r[1;1H[3m>>>ls(Dot11Ely)[23m[24;63H[K[24;63H133,39[8C91%[6;39H[?25h[?25l[24;53H~@k[6;39H[24;53H   [6;56H[1;23r[1;1H[2L[1;24r[1;1H[3m>>>ls(Dot11)
+>>>ls(Dot11Beacon)[23m[24;63H[K[24;63H132,56[8C90%[6;56H[?25h[?25l[24;53H~@k[6;56H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[1;1H[3m>>>ls(RadioTap)[23m[24;63H[K[24;63H131,0-1[7C89%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;3H[1;23r[1;1H[L[1;24r[1;1H[3m```[23m[24;63H[K[24;63H130,3[9C88%[6;3H[?25h[?25l[24;53H~@k[6;3H[24;53H   [7;15H[1;23r[1;1H[2L[1;24r[1;1H[38;5;130m1.[m[3m Information regarding the data types and structure of scapy layers is revealee[2;1Hd with the ls command. Ex:[23m[7;6H[3m[106m([8C)[23m[m[24;63H[K[24;63H129,15[8C87%[7;15H[?25h[?25l[24;53H~@k[7;15H[24;53H   [6;18H[6;6H[3m[106m([11C)[23m[m[7;6H[3m([8C)[23m[24;65H8,18[6;18H[?25h[?25l[24;53H~@k[6;18H[24;53H   [6;12H[1;23r[1;1H[L[1;24r[1;1H[35m###[m[35m Understanding layers in Scapy[m[6;6H[3m[106m([5C)[23m[m[7;6H[3m([11C)[23m[24;63H[K[24;63H127,12[8C86%[6;12H[?25h[?25l[24;53H~@k[6;12H[24;53H   [6;15H[1;23r[1;1H[L[1;24r[6;6H[3m[106m([8C)[23m[m[7;6H[3m(Dot11)[23m[24;63H[K[24;63H126,15[8C85%[6;15H[?25h[?25l[24;53H~@k[6;15H[24;53H   [6;3H[1;23r[1;1H[L[1;24r[1;1H[38;5;130m2.[m[3m getmacbyip may be useful[7;6H([8C)[23m[24;63H[K[24;63H125,3[9C85%[6;3H[?25h[?25l[24;53H~@k[6;3H[24;53H   [6;56H[1;23r[1;1H[2L[1;24r[1;1H[35m###[m[35m Workflow for today[m
+[38;5;130m1.[m[3m Scan local STA's for promiscuous mode[23m[24;63H[K[24;63H124,56[8C83%[6;56H[?25h[?25l[24;53H~@k[6;56H[24;53H   [6;33H[1;23r[1;1H[L[1;24r[24;63H[K[24;63H123,33[8C82%[6;33H[?25h[?25l[24;53H~@k[6;33H[24;53H   [6;1H[1;23r[1;1H[L[1;24r[1;1H[35m##[m[35m 15 Jul 2019 Activities[m[24;63H[K[24;63H122,0-1[7C82%[6;1H[?25h[?25l[24;53H~@k[6;1H[24;53H   [6;27H[1;23r[1;1H[L[1;24r[24;63H[K[24;63H121,27[8C81%[6;27H[?25h[?25l[24;53H~@k[6;27H[24;53H   [7;1H[24;65H2,0-1[7;1H[?25h[?25l[24;53H~@k[7;1H[24;53H   [8;33H[24;65H3,33 [8;33H[?25h[?25l[24;53H~@k[8;33H[24;53H   [9;56H[24;65H4,56[9;56H[?25h[?25l[24;53H~@k[9;56H[24;53H   [11;3H[24;65H5,3 [11;3H[?25h[?25l[24;53H~@k[11;3H[24;53H   [12;15H[12;6H[3m[106m([8C)[23m[m[24;65H6,15[12;15H[?25h[?25l[24;53H~@k[12;15H[24;53H   [13;12H[12;6H[3m([8C)[23m[13;6H[3m[106m([5C)[23m[m[24;65H7,12[13;12H[?25h[?25l[24;53H~@k[13;12H[24;53H   [14;18H[13;6H[3m(Dot11)[23m[14;6H[3m[106m([11C)[23m[m[24;65H8,18[14;18H[?25h[?25l[24;53H~@k[14;18H[24;53H   [15;15H[14;6H[3m([11C)[23m[15;6H[3m[106m([8C)[23m[m[24;65H9,15[15;15H[?25h[?25l[24;53H~@k[15;15H[24;53H   [16;3H[15;6H[3m([8C)[23m[24;64H30,3 [16;3H[?25h[?25l[24;53H~@k[16;3H[24;53H   [17;1H[24;65H1,0-1[17;1H[?25h[?25l[24;53H~@k[17;1H[24;53H   [17;56H[1;23r[23;1H
+[1;24r[23;1H[3m```[23m[24;63H[K[24;63H132,56[8C82%[17;56H[?25h[?25l[24;53H~@k[17;56H[24;53H   [18;39H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H133,39[8C82%[18;39H[?25h[?25l[24;53H~@k[18;39H[24;53H   [18;3H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m3.[m[3m You can reverse the payload, with the .undelayer command[23m[24;63H[K[24;63H134,3[9C83%[18;3H[?25h[?25l[24;53H~@k[18;3H[24;53H   [18;20H[1;23r[23;1H
+[1;24r[23;1H[3m.payload goes up[23m[24;63H[K[24;63H135,20[8C84%[18;20H[?25h[?25l[24;53H~@k[18;20H[24;53H   [18;26H[1;23r[23;1H
+[1;24r[23;1H[3m.underlayer goes down[23m[24;63H[K[24;63H136,26[8C85%[18;26H[?25h[?25l[24;53H~@k[18;26H[24;53H   [18;3H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H137,3[9C85%[18;3H[?25h[?25l[24;53H~@k[18;3H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m4.[m[3m Using a loop, it is possible to iterate up or down the scapy stack.[23m[24;63H[K[24;63H138,0-1[7C86%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;56H[1;23r[23;1H
+[1;24r[23;1H[3m```[23m[24;63H[K[24;63H139,56[8C87%[18;56H[?25h[?25l[24;53H~@k[18;56H[24;53H   [17;16H[1;23r[1;1H[2M[1;24r[22;1H[3m>>>temp = pkt
+>>>while temp:[23m[24;63H[K[24;63H140,16[8C88%[17;16H[?25h[?25l[24;53H~@k[17;16H[24;53H   [18;21H[24;65H1,21[18;21H[?25h[?25l[24;53H~@k[18;21H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[23;1H[3m>>>...    print(temp.name)[23m[24;63H[K[24;63H142,0-1[7C89%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;56H[1;23r[23;1H
+[1;24r[23;1H[3m>>>...    temp = temp.payload[23m[24;63H[K[24;63H143,56[8C90%[18;56H[?25h[?25l[24;53H~@k[18;56H[24;53H   [18;3H[1;23r[23;1H
+[1;24r[23;1H[3m```[23m[24;63H[K[24;63H144,3[9C90%[18;3H[?25h[?25l[24;53H~@k[18;3H[24;53H   [18;13H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H145,13[8C91%[18;13H[?25h[?25l[24;53H~@k[18;13H[24;53H   [18;14H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m5.[m[3m It is possible to extract the SSID from the beacon layer, using this syntax:[23m[24;63H[K[24;63H146,14[8C92%[18;14H[?25h[?25l[24;53H~@k[18;14H[24;53H   [17;26H[1;23r[1;1H[2M[1;24r[17;16H[3m[106m([9C)[23m[m[22;1H[3mpkt.payload.payload.payload.info   (remember .name is the name of the protocol,  [23;1H.info provides the contents)[23m[24;63H[K[24;63H147,26[8C92%[17;26H[?25h[?25l[24;53H~@k[17;26H[24;53H   [18;29H[17;16H[3m([9C)[23m[24;65H8,29[18;29H[?25h[?25l[24;53H~@k[18;29H[24;53H   [17;3H[1;23r[1;1H[2M[1;24r[22;1H[38;5;130m6.[m[3m Can also get the similar info, using the command .getlayer[23m
+[38;5;130m7.[m[3m It is also possible to check for layers, using the .haslayer(xx) info[23m[24;63H[K[24;63H149,3[9C94%[17;3H[?25h[?25l[24;53H~@k[17;3H[24;53H   [18;1H[24;64H50,0-1[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;56H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H151,56[8C95%[18;56H[?25h[?25l[24;53H~@k[18;56H[24;53H   [17;56H[1;23r[1;1H[2M[1;24r[22;1H[35m###[m[35m Individual script development to learn more about Scapy and to build Scapy tt[23;1Hools.[m[24;63H[K[24;63H152,56[8C95%[17;56H[?25h[?25l[24;53H~@k[17;56H[24;53H   [17;56H[1;23r[1;1H[2M[1;24r[22;1H[38;5;130m1.[m[3m Created basic PacketHandler script to sniff and print summaries of captured pp[23;1Hackets (filename: packethandler.py)[23m[24;63H[K[24;63H153,56[8C96%[17;56H[?25h[?25l[24;53H~@k[17;56H[24;53H   [18;56H[24;65H4[18;56H[?25h[?25l[24;53H~@k[18;56H[24;53H   [18;1H[1;23r[23;1H
+[1;24r[24;63H[K[24;63H155,0-1[7C97%[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [16;56H[1;23r[1;1H[3M[1;24r[21;1H[35m##[m[35m 7/16/2019 Activities[m
+[38;5;130m1.[m[3m Completed first two scripts to monitor ambient wireless trafffic and sniff daa[23;1Hta from the signals. The first script was for geeneral capture.[23m[24;63H[K[24;63H156,56[8C98%[16;56H[?25h[?25l[24;53H~@k[16;56H[24;53H   [16;56H[1;23r[1;1H[2M[1;24r[22;1H[3mThe second script was to extract info and labels from the traffic. (.11 traffic  [23;1Hand MAC address)[23m[24;63H[K[24;63H157,56[8C99%[16;56H[?25h[?25l[24;53H~@k[16;56H[24;53H   [18;1H[24;65H8,0-1[18;1H[?25h[?25l[24;53H~@k[18;1H[24;53H   [18;23H[1;23r[23;1H
+[1;24r[23;1H[38;5;130m2.[m[3m The fields and structure available for extraction are considerable. [23m[24;63H[K[24;63H159,23[8CBot[18;23H[?25h[?25l[24;53H~@k[18;23H[24;53H   [19;56H[24;64H60,56[19;56H[?25h[?25l[24;53H~@k[19;56H[24;53H   [21;56H[24;65H1[21;56H[?25h[?25l[24;53H~@k[21;56H[24;53H   [23;56H[24;65H2[23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;56H[?25h[?25l[24;53H~@k[23;56H[24;53H   [23;57H[24;68H7[23;57H[?25h[?25l[24;53H~@k[23;57H[24;53H   [23;58H[24;68H8[23;58H[?25h[?25l[24;53H~@k[23;58H[24;53H   [23;59H[24;68H9[23;59H[?25h[?25l[24;53H~@k[23;59H[24;53H   [23;60H[24;67H60[23;60H[?25h[?25l[24;53H~@k[23;60H[24;53H   [23;61H[24;68H1[23;61H[?25h[?25l[24;53H~@k[23;61H[24;53H   [23;62H[24;68H2[23;62H[?25h[?25l[24;53H~@k[23;62H[24;53H   [23;63H[24;68H3[23;63H[?25h[?25l[24;53H~@k[23;63H[24;53H   [23;64H[24;68H4[23;64H[?25h[?25l[24;53H~@k[23;64H[24;53H   [23;65H[24;68H5[23;65H[?25h[?25l[24;53H~@k[23;65H[24;53H   [23;66H[24;68H6[23;66H[?25h[?25l[24;53H~@k[23;66H[24;53H   [23;67H[24;68H7[23;67H[?25h[?25l[24;53H~@k[23;67H[24;53H   [23;68H[24;68H8[23;68H[?25h[?25l[24;53H~@k[23;68H[24;53H   [23;69H[24;68H9[23;69H[?25h[?25l[24;53H~@k[23;69H[24;53H   [23;70H[24;67H70[23;70H[?25h[?25l[24;53H~@k[23;70H[24;53H   [23;71H[24;68H1[23;71H[?25h[?25l[24;53H~@k[23;71H[24;53H   [23;71H[?25h[?25l[24;53Hi[23;71H[24;53H [23;71H
+[1m-- INSERT --[m[24;63H[K[24;63H162,71[8CBot[23;71H[?25h[?25l[1;23r[23;1H
+[1;24r[22;71H[K[23;1H[3m [23m[24;63H[K[24;63H163,1[9CBot[23;1H[?25h[?25l[1;23r[23;1H
+[1;24r[22;1H[K[23;1H[3m [23m[24;63H[K[24;63H164,1[9CBot[23;1H[?25h[?25l[35m# [m[24;67H2[23;2H[?25h[?25l[35m# [m[24;67H3[23;3H[?25h[?25l[1C[35m [m[24;67H4[23;4H[?25h[?25l[35m 7[m[35m [m[24;67H5[23;5H[?25h[?25l[35m/[m[35m [m[24;67H6[23;6H[?25h[?25l[35m1[m[35m [m[24;67H7[23;7H[?25h[?25l[35m7[m[35m [m[24;67H8[23;8H[?25h[?25l[35m/[m[35m [m[24;67H9[23;9H[?25h[?25l[35m2[m[35m [m[24;67H10[23;10H[?25h[?25l[35m0[m[35m [m[24;68H1[23;11H[?25h[?25l[35m1[m[35m [m[24;68H2[23;12H[?25h[?25l[35m9[m[35m [m[24;68H3[23;13H[?25h[?25l[1C[35m [m[24;68H4[23;14H[?25h[?25l[35m A[m[35m [m[24;68H5[23;15H[?25h[?25l[35mc[m[35m [m[24;68H6[23;16H[?25h[?25l[35mt[m[35m [m[24;68H7[23;17H[?25h[?25l[35mi[m[35m [m[24;68H8[23;18H[?25h[?25l[35mv[m[35m [m[24;68H9[23;19H[?25h[?25l[35mi[m[35m [m[24;67H20[23;20H[?25h[?25l[35mt[m[35m [m[24;68H1[23;21H[?25h[?25l[35mi[m[35m [m[24;68H2[23;22H[?25h[?25l[35me[m[35m [m[24;68H3[23;23H[?25h[?25l[35ms[m[35m [m[24;68H4[23;24H[?25h[?25l[1;23r[23;1H
+[1;24r[22;24H[K[23;1H[3m [23m[24;63H[K[24;63H165,1[9CBot[23;1H[?25h[?25l[35m# [m[24;67H2[23;2H[?25h[?25l[35m# [m[24;67H3[23;3H[?25h[?25l[35m# [m[24;67H4[23;4H[?25h[?25l[1C[35m [m[24;67H5[23;5H[?25h[?25l[35m I[m[35m [m[24;67H6[23;6H[?25h[?25l[35mn[m[35m [m[24;67H7[23;7H[?25h[?25l[35mv[m[35m [m[24;67H8[23;8H[?25h[?25l[35me[m[35m [m[24;67H9[23;9H[?25h[?25l[35ms[m[35m [m[24;67H10[23;10H[?25h[?25l[35mt[m[35m [m[24;68H1[23;11H[?25h[?25l[35mi[m[35m [m[24;68H2[23;12H[?25h[?25l[35mg[m[35m [m[24;68H3[23;13H[?25h[?25l[35ma[m[35m [m[24;68H4[23;14H[?25h[?25l[35mt[m[35m [m[24;68H5[23;15H[?25h[?25l[35me[m[35m [m[24;68H6[23;16H[?25h[?25l[35md[m[35m [m[24;68H7[23;17H[?25h[?25l[1C[35m [m[24;68H8[23;18H[?25h[?25l[35m d[m[35m [m[24;68H9[23;19H[?25h[?25l[35mo[m[35m [m[24;67H20[23;20H[?25h[?25l[35mc[m[35m [m[24;68H1[23;21H[?25h[?25l[35mu[m[35m [m[24;68H2[23;22H[?25h[?25l[35mm[m[35m [m[24;68H3[23;23H[?25h[?25l[35me[m[35m [m[24;68H4[23;24H[?25h[?25l[35mn[m[35m [m[24;68H5[23;25H[?25h[?25l[35mt[m[35m [m[24;68H6[23;26H[?25h[?25l[35ma[m[35m [m[24;68H7[23;27H[?25h[?25l[35mt[m[35m [m[24;68H8[23;28H[?25h[?25l[35mi[m[35m [m[24;68H9[23;29H[?25h[?25l[35mo[m[35m [m[24;67H30[23;30H[?25h[?25l[35mn[m[35m [m[24;68H1[23;31H[?25h[?25l[1C[35m [m[24;68H2[23;32H[?25h[?25l[35m f[m[35m [m[24;68H3[23;33H[?25h[?25l[35mo[m[35m [m[24;68H4[23;34H[?25h[?25l[35mr[m[35m [m[24;68H5[23;35H[?25h[?25l[1C[35m [m[24;68H6[23;36H[?25h[?25l[35m s[m[35m [m[24;68H7[23;37H[?25h[?25l[35mc[m[35m [m[24;68H8[23;38H[?25h[?25l[35ma[m[35m [m[24;68H9[23;39H[?25h[?25l[35mp[m[35m [m[24;67H40[23;40H[?25h[?25l[35my[m[35m [m[24;68H1[23;41H[?25h[?25l[1C[35m [m[24;68H2[23;42H[?25h[?25l[35m D[m[35m [m[24;68H3[23;43H[?25h[?25l[35mo[m[35m [m[24;68H4[23;44H[?25h[?25l[35mt[m[35m [m[24;68H5[23;45H[?25h[?25l[35m1[m[35m [m[24;68H6[23;46H[?25h[?25l[35m1[m[35m [m[24;68H7[23;47H[?25h[?25l[1C[35m [m[24;68H8[23;48H[?25h[?25l[35m f[m[35m [m[24;68H9[23;49H[?25h[?25l[35mu[m[35m [m[24;67H50[23;50H[?25h[?25l[35mn[m[35m [m[24;68H1[23;51H[?25h[?25l[35mc[m[35m [m[24;68H2[23;52H[?25h[?25l[35mt[m[35m [m[24;68H3[23;53H[?25h[?25l[35mi[m[35m [m[24;68H4[23;54H[?25h[?25l[35mo[m[35m [m[24;68H5[23;55H[?25h[?25l[35mn[m[35m [m[24;68H6[23;56H[?25h[?25l[35ms[m[35m [m[24;68H7[23;57H[?25h[?25l[1C[35m [m[24;68H8[23;58H[?25h[?25l[35m a[m[35m [m[24;68H9[23;59H[?25h[?25l[35mn[m[35m [m[24;67H60[23;60H[?25h[?25l[35md[m[35m [m[24;68H1[23;61H[?25h[?25l[1C[35m [m[24;68H2[23;62H[?25h[?25l[35m d[m[35m [m[24;68H3[23;63H[?25h[?25l[35ma[m[35m [m[24;68H4[23;64H[?25h[?25l[35mt[m[35m [m[24;68H5[23;65H[?25h[?25l[35ma[m[35m [m[24;68H6[23;66H[?25h[?25l[1C[35m [m[24;68H7[23;67H[?25h[?25l[35m e[m[35m [m[24;68H8[23;68H[?25h[?25l[35mx[m[35m [m[24;68H9[23;69H[?25h[?25l[35mt[m[35m [m[24;67H70[23;70H[?25h[?25l[35mr[m[35m [m[24;68H1[23;71H[?25h[?25l[35ma[m[35m [m[24;68H2[23;72H[?25h[?25l[35mc[m[35m [m[24;68H3[23;73H[?25h[?25l[35mt[m[35m [m[24;68H4[23;74H[?25h[?25l[35ms[m[35m [m[24;68H5[23;75H[?25h[?25l[1;23r[23;1H
+[1;24r[22;75H[K[23;1H[3m [23m[24;63H[K[24;63H166,1[9CBot[23;1H[?25h[?25l[3m1 [23m[24;67H2[23;2H[?25h[?25l[3m. [23m[24;67H3[23;3H[?25h[?25l[1C[3m [23m[24;67H4[23;4H[?25h[?25l[38;5;130m1.[m[1C[3mD [23m[24;67H5[23;5H[?25h[?25l[3me [23m[24;67H6[23;6H[?25h[?25l[3mt [23m[24;67H7[23;7H[?25h[?25l[3ma [23m[24;67H8[23;8H[?25h[?25l[3mi [23m[24;67H9[23;9H[?25h[?25l[3ml [23m[24;67H10[23;10H[?25h[?25l[3ms [23m[24;68H1[23;11H[?25h[?25l[1C[3m [23m[24;68H2[23;12H[?25h[?25l[3mp [23m[24;68H3[23;13H[?25h[?25l[3mr [23m[24;68H4[23;14H[?25h[?25l[3mo [23m[24;68H5[23;15H[?25h[?25l[3mv [23m[24;68H6[23;16H[?25h[?25l[3mi [23m[24;68H7[23;17H[?25h[?25l[3md [23m[24;68H8[23;18H[?25h[?25l[3me [23m[24;68H9[23;19H[?25h[?25l[3md [23m[24;67H20[23;20H[?25h[?25l[1C[3m [23m[24;68H1[23;21H[?25h[?25l[3mi [23m[24;68H2[23;22H[?25h[?25l[3m [23m[23;22H[K[24;68H1[23;21H[?25h[?25l[3mb [23m[24;68H2[23;22H[?25h[?25l[3my [23m[24;68H3[23;23H[?25h[?25l[1C[3m [23m[24;68H4[23;24H[?25h[?25l[3ms [23m[24;68H5[23;25H[?25h[?25l[3mc [23m[24;68H6[23;26H[?25h[?25l[3ma [23m[24;68H7[23;27H[?25h[?25l[3mp [23m[24;68H8[23;28H[?25h[?25l[3my [23m[24;68H9[23;29H[?25h[?25l[1C[3m [23m[24;67H30[23;30H[?25h[?25l[3ma [23m[24;68H1[23;31H[?25h[?25l[3mr [23m[24;68H2[23;32H[?25h[?25l[3me [23m[24;68H3[23;33H[?25h[?25l[1C[3m [23m[24;68H4[23;34H[?25h[?25l[3ms [23m[24;68H5[23;35H[?25h[?25l[3mi [23m[24;68H6[23;36H[?25h[?25l[3mg [23m[24;68H7[23;37H[?25h[?25l[3mn [23m[24;68H8[23;38H[?25h[?25l[3mi [23m[24;68H9[23;39H[?25h[?25l[3mf [23m[24;67H40[23;40H[?25h[?25l[3mi [23m[24;68H1[23;41H[?25h[?25l[3mc [23m[24;68H2[23;42H[?25h[?25l[3ma [23m[24;68H3[23;43H[?25h[?25l[3mn [23m[24;68H4[23;44H[?25h[?25l[3mt [23m[24;68H5[23;45H[?25h[?25l[1C[3m [23m[24;68H6[23;46H[?25h[?25l[3ma [23m[24;68H7[23;47H[?25h[?25l[3mn [23m[24;68H8[23;48H[?25h[?25l[3md [23m[24;68H9[23;49H[?25h[?25l[1C[3m [23m[24;67H50[23;50H[?25h[?25l[3md [23m[24;68H1[23;51H[?25h[?25l[3me [23m[24;68H2[23;52H[?25h[?25l[3mt [23m[24;68H3[23;53H[?25h[?25l[3ma [23m[24;68H4[23;54H[?25h[?25l[3mi [23m[24;68H5[23;55H[?25h[?25l[3ml [23m[24;68H6[23;56H[?25h[?25l[3me [23m[24;68H7[23;57H[?25h[?25l[3md [23m[24;68H8[23;58H[?25h[?25l[3m. [23m[24;68H9[23;59H[?25h[?25l[1;23r[23;1H
+[1;24r[22;59H[K[23;1H[3m [23m[24;63H[K[24;63H167,1[9CBot[23;1H[?25h[?25l[3m2 [23m[24;67H2[23;2H[?25h[?25l[3m. [23m[24;67H3[23;3H[?25h[?25l[1C[3m [23m[24;67H4[23;4H[?25h[?25l[38;5;130m2.[m[1C[3mE [23m[24;67H5[23;5H[?25h[?25l[3mx [23m[24;67H6[23;6H[?25h[?25l[3mt [23m[24;67H7[23;7H[?25h[?25l[3mr [23m[24;67H8[23;8H[?25h[?25l[3ma [23m[24;67H9[23;9H[?25h[?25l[3mc [23m[24;67H10[23;10H[?25h[?25l[3mt [23m[24;68H1[23;11H[?25h[?25l[3me [23m[24;68H2[23;12H[?25h[?25l[3md [23m[24;68H3[23;13H[?25h[?25l[1C[3m [23m[24;68H4[23;14H[?25h[?25l[3mo [23m[24;68H5[23;15H[?25h[?25l[3mu [23m[24;68H6[23;16H[?25h[?25l[3mt [23m[24;68H7[23;17H[?25h[?25l[3mp [23m[24;68H8[23;18H[?25h[?25l[3mu [23m[24;68H9[23;19H[?25h[?25l[3mt [23m[24;67H20[23;20H[?25h[?25l[1C[3m [23m[24;68H1[23;21H[?25h[?25l[3mo [23m[24;68H2[23;22H[?25h[?25l[3mf [23m[24;68H3[23;23H[?25h[?25l[1C[3m [23m[24;68H4[23;24H[?25h[?25l[3ma [23m[24;68H5[23;25H[?25h[?25l[3ml [23m[24;68H6[23;26H[?25h[?25l[3ml [23m[24;68H7[23;27H[?25h[?25l[1C[3m [23m[24;68H8[23;28H[?25h[?25l[3ms [23m[24;68H9[23;29H[?25h[?25l[3mu [23m[24;67H30[23;30H[?25h[?25l[3mp [23m[24;68H1[23;31H[?25h[?25l[3mp [23m[24;68H2[23;32H[?25h[?25l[3mo [23m[24;68H3[23;33H[?25h[?25l[3mr [23m[24;68H4[23;34H[?25h[?25l[3mt [23m[24;68H5[23;35H[?25h[?25l[3me [23m[24;68H6[23;36H[?25h[?25l[3md [23m[24;68H7[23;37H[?25h[?25l[1C[3m [23m[24;68H8[23;38H[?25h[?25l[3ml [23m[24;68H9[23;39H[?25h[?25l[3ma [23m[24;67H40[23;40H[?25h[?25l[3my [23m[24;68H1[23;41H[?25h[?25l[3me [23m[24;68H2[23;42H[?25h[?25l[3mr [23m[24;68H3[23;43H[?25h[?25l[3ms [23m[24;68H4[23;44H[?25h[?25l[1C[3m [23m[24;68H5[23;45H[?25h[?25l[3mt [23m[24;68H6[23;46H[?25h[?25l[3mo [23m[24;68H7[23;47H[?25h[?25l[3m: [23m[24;68H8[23;48H[?25h[?25l[1C[3m [23m[24;68H9[23;49H[?25h[?25l[3md [23m[24;67H50[23;50H[?25h[?25l[3mo [23m[24;68H1[23;51H[?25h[?25l[3mt [23m[24;68H2[23;52H[?25h[?25l[3m1 [23m[24;68H3[23;53H[?25h[?25l[3m1 [23m[24;68H4[23;54H[?25h[?25l[3m_[23m[24;68H5[23;55H[?25h[?25ll[24;68H6[23;56H[?25h[?25la[24;68H7[23;57H[?25h[?25ly[24;68H8[23;58H[?25h[?25le[24;68H9[23;59H[?25h[?25lr[24;67H60[23;60H[?25h[?25ls[24;68H1[23;61H[?25h[?25l.[24;68H2[23;62H[?25h[?25lt[24;68H3[23;63H[?25h[?25lx[24;68H4[23;64H[?25h[?25lt[24;68H5[23;65H[?25h[?25l[1;23r[23;1H
+[1;24r[24;63H[K[24;63H168,1[9CBot[23;1H[?25h[?25l3[24;67H2[23;2H[?25h[?25l.[24;67H3[23;3H[?25h[?25l[24;67H4[23;4H[?25h[?25l[38;5;130m3.[m E[24;67H5[23;5H[?25h[?25lx[24;67H6[23;6H[?25h[?25lt[24;67H7[23;7H[?25h[?25lr[24;67H8[23;8H[?25h[?25la[24;67H9[23;9H[?25h[?25lc[24;67H10[23;10H[?25h[?25lt[24;68H1[23;11H[?25h[?25le[24;68H2[23;12H[?25h[?25ld[24;68H3[23;13H[?25h[?25l[24;68H4[23;14H[?25h[?25la[24;68H5[23;15H[?25h[?25ll[24;68H6[23;16H[?25h[?25ll[24;68H7[23;17H[?25h[?25l[24;68H8[23;18H[?25h[?25la[24;68H9[23;19H[?25h[?25lc[24;67H20[23;20H[?25h[?25lt[24;68H1[23;21H[?25h[?25li[24;68H2[23;22H[?25h[?25lo[24;68H3[23;23H[?25h[?25ln[24;68H4[23;24H[?25h[?25ls[24;68H5[23;25H[?25h[?25l[24;68H6[23;26H[?25h[?25la[24;68H7[23;27H[?25h[?25lv[24;68H8[23;28H[?25h[?25la[24;68H9[23;29H[?25h[?25li[24;67H30[23;30H[?25h[?25ll[24;68H1[23;31H[?25h[?25la[24;68H2[23;32H[?25h[?25lb[24;68H3[23;33H[?25h[?25ll[24;68H4[23;34H[?25h[?25le[24;68H5[23;35H[?25h[?25l[24;68H6[23;36H[?25h[?25lw[24;68H7[23;37H[?25h[?25li[24;68H8[23;38H[?25h[?25lt[24;68H9[23;39H[?25h[?25lh[24;67H40[23;40H[?25h[?25l[24;68H1[23;41H[?25h[?25ls[24;68H2[23;42H[?25h[?25lc[24;68H3[23;43H[?25h[?25la[24;68H4[23;44H[?25h[?25lp[24;68H5[23;45H[?25h[?25ly[24;68H6[23;46H[?25h[?25l[24;68H7[23;47H[?25h[?25lt[24;68H8[23;48H[?25h[?25lo[24;68H9[23;49H[?25h[?25l[24;67H50[23;50H[?25h[?25la[24;68H1[23;51H[?25h[?25ll[24;68H2[23;52H[?25h[?25ll[24;68H3[23;53H[?25h[?25l[3m_ [23m[24;68H4[23;54H[?25h[?25l[97m[101m_[ma[24;68H5[23;55H[?25h[?25lc[24;68H6[23;56H[?25h[?25lt[24;68H7[23;57H[?25h[?25li[24;68H8[23;58H[?25h[?25lo[24;68H9[23;59H[?25h[?25ln[24;67H60[23;60H[?25h[?25ls[24;68H1[23;61H[?25h[?25l.[24;68H2[23;62H[?25h[?25lt[24;68H3[23;63H[?25h[?25lx[24;68H4[23;64H[?25h[?25lt[24;68H5[23;65H[?25h[?25l[1;23r[23;1H
+[1;24r[24;63H[K[24;63H169,1[9CBot[23;1H[?25h[?25l4[24;67H2[23;2H[?25h[?25l.[24;67H3[23;3H[?25h[?25l[24;67H4[23;4H[?25h[?25l[38;5;130m4.[m M[24;67H5[23;5H[?25h[?25la[24;67H6[23;6H[?25h[?25ln[24;67H7[23;7H[?25h[?25ly[24;67H8[23;8H[?25h[?25l[24;67H9[23;9H[?25h[?25lo[24;67H10[23;10H[?25h[?25lf[24;68H1[23;11H[?25h[?25l[24;68H2[23;12H[?25h[?25lt[24;68H3[23;13H[?25h[?25lh[24;68H4[23;14H[?25h[?25le[24;68H5[23;15H[?25h[?25l[24;68H6[23;16H[?25h[?25lr[24;68H7[23;17H[?25h[?25le[24;68H8[23;18H[?25h[?25lm[24;68H9[23;19H[?25h[?25la[24;67H20[23;20H[?25h[?25li[24;68H1[23;21H[?25h[?25ln[24;68H2[23;22H[?25h[?25li[24;68H3[23;23H[?25h[?25ln[24;68H4[23;24H[?25h[?25lg[24;68H5[23;25H[?25h[?25ls[24;68H6[23;26H[?25h[?25l[24;68H7[23;27H[?25h[?25lc[24;68H8[23;28H[?25h[?25lr[24;68H9[23;29H[?25h[?25li[24;67H30[23;30H[?25h[?25lp[24;68H1[23;31H[?25h[?25lt[24;68H2[23;32H[?25h[?25ls[24;68H3[23;33H[?25h[?25l[24;68H4[23;34H[?25h[?25lw[24;68H5[23;35H[?25h[?25li[24;68H6[23;36H[?25h[?25ll[24;68H7[23;37H[?25h[?25ll[24;68H8[23;38H[?25h[?25l[24;68H9[23;39H[?25h[?25ld[24;67H40[23;40H[?25h[?25le[24;68H1[23;41H[?25h[?25lp[24;68H2[23;42H[?25h[?25le[24;68H3[23;43H[?25h[?25ln[24;68H4[23;44H[?25h[?25ld[24;68H5[23;45H[?25h[?25l[24;68H6[23;46H[?25h[?25lu[24;68H7[23;47H[?25h[?25lp[24;68H8[23;48H[?25h[?25li[24;68H9[23;49H[?25h[?25l [24;68H8[23;48H[?25h[?25lo[24;68H9[23;49H[?25h[?25ln[24;67H50[23;50H[?25h[?25l[24;68H1[23;51H[?25h[?25lt[24;68H2[23;52H[?25h[?25lh[24;68H3[23;53H[?25h[?25le[24;68H4[23;54H[?25h[?25ls[24;68H5[23;55H[?25h[?25le[24;68H6[23;56H[?25h[?25l[24;68H7[23;57H[?25h[?25l[24;68H6[23;56H[?25h[?25l [24;68H5[23;55H[?25h[?25l [24;68H4[23;54H[?25h[?25l [24;68H3[23;53H[?25h[?25li[24;68H4[23;54H[?25h[?25ls[24;68H5[23;55H[?25h[?25l[24;68H6[23;56H[?25h[?25ld[24;68H7[23;57H[?25h[?25lo[24;68H8[23;58H[?25h[?25lc[24;68H9[23;59H[?25h[?25lu[24;67H60[23;60H[?25h[?25lm[24;68H1[23;61H[?25h[?25le[24;68H2[23;62H[?25h[?25ln[24;68H3[23;63H[?25h[?25lt[24;68H4[23;64H[?25h[?25la[24;68H5[23;65H[?25h[?25lt[24;68H6[23;66H[?25h[?25li[24;68H7[23;67H[?25h[?25lo[24;68H8[23;68H[?25h[?25ln[24;68H9[23;69H[?25h[?25l[24;67H70[23;70H[?25h[?25lf[24;68H1[23;71H[?25h[?25lo[24;68H2[23;72H[?25h[?25lr[24;68H3[23;73H[?25h[?25l[24;68H4[23;74H[?25h[?25ld[24;68H5[23;75H[?25h[?25la[24;68H6[23;76H[?25h[?25lt[24;68H7[23;77H[?25h[?25la[24;68H8[23;78H[?25h[?25l[24;68H9[23;79H[?25h[?25la[24;67H80[23;80H[?25h[?25l [24;67H79[23;79H[?25h[?25le[24;67H80[23;80H[?25h[?25lx[23;1H[94m@@@                                                                             [1;23r[m[1;1H[2M[1;24r[21;1H[38;5;130m4.[m Many of the remainings cripts will depend upon this documentation for data exx[22;1H 
+[94m~                                                                               [m[24;63H[K[24;63H169,81[8CBot[22;1H[?25h[?25lt[24;68H2[22;2H[?25h[?25lr[24;68H3[22;3H[?25h[?25la[24;68H4[22;4H[?25h[?25lc[24;68H5[22;5H[?25h[?25lt[24;68H6[22;6H[?25h[?25l,[24;68H7[22;7H[?25h[?25l[24;68H8[22;8H[?25h[?25lc[24;68H9[22;9H[?25h[?25ll[24;67H90[22;10H[?25h[?25la[24;68H1[22;11H[?25h[?25ls[24;68H2[22;12H[?25h[?25ls[24;68H3[22;13H[?25h[?25li[24;68H4[22;14H[?2
