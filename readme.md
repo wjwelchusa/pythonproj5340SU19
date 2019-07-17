@@ -1,4 +1,7 @@
 # PROJECT DIARY
+## TODO:
+1. I need to find useful documentation for referring to the data elements at each layer accessible with scapy.
+2. Existing radio card is capturing traffic only in 2.5 Ghz range. This is due to driver or chipset. Investigate and correct if possible. Otherwise, continue for project using this range. Subsequent application to other ranges should be extensible, given scapy library.
 
 ## 6/25/2019 Activities
 1. Provided initial project submission.
@@ -156,4 +159,4 @@ pkt.payload.payload.payload.info   (remember .name is the name of the protocol, 
 ## 7/16/2019 Activities
 1. Completed first two scripts to monitor ambient wireless trafffic and sniff data from the signals. The first script was for geeneral capture.
 The second script was to extract info and labels from the traffic. (.11 traffic and MAC address)
-2. The fields and structure available for extraction are considerable. I need to find useful documentation for referring to the data elements at each layer accessible with scapy.
+2. The fields and structure available for extraction are considerable. 
