@@ -575,4 +575,1476 @@ airodump wlan0mon (turn on shortly to ensure packet capture is working)[23m[24
 [1;24r[22;59H[K[23;1H[3m [23m[24;63H[K[24;63H167,1[9CBot[23;1H[?25h[?25l[3m2 [23m[24;67H2[23;2H[?25h[?25l[3m. [23m[24;67H3[23;3H[?25h[?25l[1C[3m [23m[24;67H4[23;4H[?25h[?25l[38;5;130m2.[m[1C[3mE [23m[24;67H5[23;5H[?25h[?25l[3mx [23m[24;67H6[23;6H[?25h[?25l[3mt [23m[24;67H7[23;7H[?25h[?25l[3mr [23m[24;67H8[23;8H[?25h[?25l[3ma [23m[24;67H9[23;9H[?25h[?25l[3mc [23m[24;67H10[23;10H[?25h[?25l[3mt [23m[24;68H1[23;11H[?25h[?25l[3me [23m[24;68H2[23;12H[?25h[?25l[3md [23m[24;68H3[23;13H[?25h[?25l[1C[3m [23m[24;68H4[23;14H[?25h[?25l[3mo [23m[24;68H5[23;15H[?25h[?25l[3mu [23m[24;68H6[23;16H[?25h[?25l[3mt [23m[24;68H7[23;17H[?25h[?25l[3mp [23m[24;68H8[23;18H[?25h[?25l[3mu [23m[24;68H9[23;19H[?25h[?25l[3mt [23m[24;67H20[23;20H[?25h[?25l[1C[3m [23m[24;68H1[23;21H[?25h[?25l[3mo [23m[24;68H2[23;22H[?25h[?25l[3mf [23m[24;68H3[23;23H[?25h[?25l[1C[3m [23m[24;68H4[23;24H[?25h[?25l[3ma [23m[24;68H5[23;25H[?25h[?25l[3ml [23m[24;68H6[23;26H[?25h[?25l[3ml [23m[24;68H7[23;27H[?25h[?25l[1C[3m [23m[24;68H8[23;28H[?25h[?25l[3ms [23m[24;68H9[23;29H[?25h[?25l[3mu [23m[24;67H30[23;30H[?25h[?25l[3mp [23m[24;68H1[23;31H[?25h[?25l[3mp [23m[24;68H2[23;32H[?25h[?25l[3mo [23m[24;68H3[23;33H[?25h[?25l[3mr [23m[24;68H4[23;34H[?25h[?25l[3mt [23m[24;68H5[23;35H[?25h[?25l[3me [23m[24;68H6[23;36H[?25h[?25l[3md [23m[24;68H7[23;37H[?25h[?25l[1C[3m [23m[24;68H8[23;38H[?25h[?25l[3ml [23m[24;68H9[23;39H[?25h[?25l[3ma [23m[24;67H40[23;40H[?25h[?25l[3my [23m[24;68H1[23;41H[?25h[?25l[3me [23m[24;68H2[23;42H[?25h[?25l[3mr [23m[24;68H3[23;43H[?25h[?25l[3ms [23m[24;68H4[23;44H[?25h[?25l[1C[3m [23m[24;68H5[23;45H[?25h[?25l[3mt [23m[24;68H6[23;46H[?25h[?25l[3mo [23m[24;68H7[23;47H[?25h[?25l[3m: [23m[24;68H8[23;48H[?25h[?25l[1C[3m [23m[24;68H9[23;49H[?25h[?25l[3md [23m[24;67H50[23;50H[?25h[?25l[3mo [23m[24;68H1[23;51H[?25h[?25l[3mt [23m[24;68H2[23;52H[?25h[?25l[3m1 [23m[24;68H3[23;53H[?25h[?25l[3m1 [23m[24;68H4[23;54H[?25h[?25l[3m_[23m[24;68H5[23;55H[?25h[?25ll[24;68H6[23;56H[?25h[?25la[24;68H7[23;57H[?25h[?25ly[24;68H8[23;58H[?25h[?25le[24;68H9[23;59H[?25h[?25lr[24;67H60[23;60H[?25h[?25ls[24;68H1[23;61H[?25h[?25l.[24;68H2[23;62H[?25h[?25lt[24;68H3[23;63H[?25h[?25lx[24;68H4[23;64H[?25h[?25lt[24;68H5[23;65H[?25h[?25l[1;23r[23;1H
 [1;24r[24;63H[K[24;63H168,1[9CBot[23;1H[?25h[?25l3[24;67H2[23;2H[?25h[?25l.[24;67H3[23;3H[?25h[?25l[24;67H4[23;4H[?25h[?25l[38;5;130m3.[m E[24;67H5[23;5H[?25h[?25lx[24;67H6[23;6H[?25h[?25lt[24;67H7[23;7H[?25h[?25lr[24;67H8[23;8H[?25h[?25la[24;67H9[23;9H[?25h[?25lc[24;67H10[23;10H[?25h[?25lt[24;68H1[23;11H[?25h[?25le[24;68H2[23;12H[?25h[?25ld[24;68H3[23;13H[?25h[?25l[24;68H4[23;14H[?25h[?25la[24;68H5[23;15H[?25h[?25ll[24;68H6[23;16H[?25h[?25ll[24;68H7[23;17H[?25h[?25l[24;68H8[23;18H[?25h[?25la[24;68H9[23;19H[?25h[?25lc[24;67H20[23;20H[?25h[?25lt[24;68H1[23;21H[?25h[?25li[24;68H2[23;22H[?25h[?25lo[24;68H3[23;23H[?25h[?25ln[24;68H4[23;24H[?25h[?25ls[24;68H5[23;25H[?25h[?25l[24;68H6[23;26H[?25h[?25la[24;68H7[23;27H[?25h[?25lv[24;68H8[23;28H[?25h[?25la[24;68H9[23;29H[?25h[?25li[24;67H30[23;30H[?25h[?25ll[24;68H1[23;31H[?25h[?25la[24;68H2[23;32H[?25h[?25lb[24;68H3[23;33H[?25h[?25ll[24;68H4[23;34H[?25h[?25le[24;68H5[23;35H[?25h[?25l[24;68H6[23;36H[?25h[?25lw[24;68H7[23;37H[?25h[?25li[24;68H8[23;38H[?25h[?25lt[24;68H9[23;39H[?25h[?25lh[24;67H40[23;40H[?25h[?25l[24;68H1[23;41H[?25h[?25ls[24;68H2[23;42H[?25h[?25lc[24;68H3[23;43H[?25h[?25la[24;68H4[23;44H[?25h[?25lp[24;68H5[23;45H[?25h[?25ly[24;68H6[23;46H[?25h[?25l[24;68H7[23;47H[?25h[?25lt[24;68H8[23;48H[?25h[?25lo[24;68H9[23;49H[?25h[?25l[24;67H50[23;50H[?25h[?25la[24;68H1[23;51H[?25h[?25ll[24;68H2[23;52H[?25h[?25ll[24;68H3[23;53H[?25h[?25l[3m_ [23m[24;68H4[23;54H[?25h[?25l[97m[101m_[ma[24;68H5[23;55H[?25h[?25lc[24;68H6[23;56H[?25h[?25lt[24;68H7[23;57H[?25h[?25li[24;68H8[23;58H[?25h[?25lo[24;68H9[23;59H[?25h[?25ln[24;67H60[23;60H[?25h[?25ls[24;68H1[23;61H[?25h[?25l.[24;68H2[23;62H[?25h[?25lt[24;68H3[23;63H[?25h[?25lx[24;68H4[23;64H[?25h[?25lt[24;68H5[23;65H[?25h[?25l[1;23r[23;1H
 [1;24r[24;63H[K[24;63H169,1[9CBot[23;1H[?25h[?25l4[24;67H2[23;2H[?25h[?25l.[24;67H3[23;3H[?25h[?25l[24;67H4[23;4H[?25h[?25l[38;5;130m4.[m M[24;67H5[23;5H[?25h[?25la[24;67H6[23;6H[?25h[?25ln[24;67H7[23;7H[?25h[?25ly[24;67H8[23;8H[?25h[?25l[24;67H9[23;9H[?25h[?25lo[24;67H10[23;10H[?25h[?25lf[24;68H1[23;11H[?25h[?25l[24;68H2[23;12H[?25h[?25lt[24;68H3[23;13H[?25h[?25lh[24;68H4[23;14H[?25h[?25le[24;68H5[23;15H[?25h[?25l[24;68H6[23;16H[?25h[?25lr[24;68H7[23;17H[?25h[?25le[24;68H8[23;18H[?25h[?25lm[24;68H9[23;19H[?25h[?25la[24;67H20[23;20H[?25h[?25li[24;68H1[23;21H[?25h[?25ln[24;68H2[23;22H[?25h[?25li[24;68H3[23;23H[?25h[?25ln[24;68H4[23;24H[?25h[?25lg[24;68H5[23;25H[?25h[?25ls[24;68H6[23;26H[?25h[?25l[24;68H7[23;27H[?25h[?25lc[24;68H8[23;28H[?25h[?25lr[24;68H9[23;29H[?25h[?25li[24;67H30[23;30H[?25h[?25lp[24;68H1[23;31H[?25h[?25lt[24;68H2[23;32H[?25h[?25ls[24;68H3[23;33H[?25h[?25l[24;68H4[23;34H[?25h[?25lw[24;68H5[23;35H[?25h[?25li[24;68H6[23;36H[?25h[?25ll[24;68H7[23;37H[?25h[?25ll[24;68H8[23;38H[?25h[?25l[24;68H9[23;39H[?25h[?25ld[24;67H40[23;40H[?25h[?25le[24;68H1[23;41H[?25h[?25lp[24;68H2[23;42H[?25h[?25le[24;68H3[23;43H[?25h[?25ln[24;68H4[23;44H[?25h[?25ld[24;68H5[23;45H[?25h[?25l[24;68H6[23;46H[?25h[?25lu[24;68H7[23;47H[?25h[?25lp[24;68H8[23;48H[?25h[?25li[24;68H9[23;49H[?25h[?25l [24;68H8[23;48H[?25h[?25lo[24;68H9[23;49H[?25h[?25ln[24;67H50[23;50H[?25h[?25l[24;68H1[23;51H[?25h[?25lt[24;68H2[23;52H[?25h[?25lh[24;68H3[23;53H[?25h[?25le[24;68H4[23;54H[?25h[?25ls[24;68H5[23;55H[?25h[?25le[24;68H6[23;56H[?25h[?25l[24;68H7[23;57H[?25h[?25l[24;68H6[23;56H[?25h[?25l [24;68H5[23;55H[?25h[?25l [24;68H4[23;54H[?25h[?25l [24;68H3[23;53H[?25h[?25li[24;68H4[23;54H[?25h[?25ls[24;68H5[23;55H[?25h[?25l[24;68H6[23;56H[?25h[?25ld[24;68H7[23;57H[?25h[?25lo[24;68H8[23;58H[?25h[?25lc[24;68H9[23;59H[?25h[?25lu[24;67H60[23;60H[?25h[?25lm[24;68H1[23;61H[?25h[?25le[24;68H2[23;62H[?25h[?25ln[24;68H3[23;63H[?25h[?25lt[24;68H4[23;64H[?25h[?25la[24;68H5[23;65H[?25h[?25lt[24;68H6[23;66H[?25h[?25li[24;68H7[23;67H[?25h[?25lo[24;68H8[23;68H[?25h[?25ln[24;68H9[23;69H[?25h[?25l[24;67H70[23;70H[?25h[?25lf[24;68H1[23;71H[?25h[?25lo[24;68H2[23;72H[?25h[?25lr[24;68H3[23;73H[?25h[?25l[24;68H4[23;74H[?25h[?25ld[24;68H5[23;75H[?25h[?25la[24;68H6[23;76H[?25h[?25lt[24;68H7[23;77H[?25h[?25la[24;68H8[23;78H[?25h[?25l[24;68H9[23;79H[?25h[?25la[24;67H80[23;80H[?25h[?25l [24;67H79[23;79H[?25h[?25le[24;67H80[23;80H[?25h[?25lx[23;1H[94m@@@                                                                             [1;23r[m[1;1H[2M[1;24r[21;1H[38;5;130m4.[m Many of the remainings cripts will depend upon this documentation for data exx[22;1H 
-[94m~                                                                               [m[24;63H[K[24;63H169,81[8CBot[22;1H[?25h[?25lt[24;68H2[22;2H[?25h[?25lr[24;68H3[22;3H[?25h[?25la[24;68H4[22;4H[?25h[?25lc[24;68H5[22;5H[?25h[?25lt[24;68H6[22;6H[?25h[?25l,[24;68H7[22;7H[?25h[?25l[24;68H8[22;8H[?25h[?25lc[24;68H9[22;9H[?25h[?25ll[24;67H90[22;10H[?25h[?25la[24;68H1[22;11H[?25h[?25ls[24;68H2[22;12H[?25h[?25ls[24;68H3[22;13H[?25h[?25li[24;68H4[22;14H[?2
+[94m~                                                                               [m[24;63H[K[24;63H169,81[8CBot[22;1H[?25h[?25lt[24;68H2[22;2H[?25h[?25lr[24;68H3[22;3H[?25h[?25la[24;68H4[22;4H[?25h[?25lc[24;68H5[22;5H[?25h[?25lt[24;68H6[22;6H[?25h[?25l,[24;68H7[22;7H[?25h[?25l[24;68H8[22;8H[?25h[?25lc[24;68H9[22;9H[?25h[?25ll[24;67H90[22;10H[?25h[?25la[24;68H1[22;11H[?25h[?25ls[24;68H2[22;12H[?25h[?25ls[24;68H3[22;13H[?25h[?25li[24;68H4[22;14H[?25h[?25lf[24;68H5[22;15H[?25h[?25li[24;68H6[22;16H[?25h[?25lc[24;68H7[22;17H[?25h[?25la[24;68H8[22;18H[?25h[?25lt[24;68H9[22;19H[?25h[?25li[24;67H100[22;20H[?25h[?25lo[24;69H1[22;21H[?25h[?25ln[24;69H2[22;22H[?25h[?25l[24;69H3[22;23H[?25h[?25la[24;69H4[22;24H[?25h[?25ln[24;69H5[22;25H[?25h[?25ld[24;69H6[22;26H[?25h[?25l[24;69H7[22;27H[?25h[?25lp[24;69H8[22;28H[?25h[?25lr[24;69H9[22;29H[?25h[?25lo[24;68H10[22;30H[?25h[?25lc[24;69H1[22;31H[?25h[?25le[24;69H2[22;32H[?25h[?25ls[24;69H3[22;33H[?25h[?25ls[24;69H4[22;34H[?25h[?25li[24;69H5[22;35H[?25h[?25ln[24;69H6[22;36H[?25h[?25lg[24;69H7[22;37H[?25h[?25l.[24;69H8[22;38H[?25h[24;1H[K[22;37H[?25l[24;53H^[[22;37H[24;53H  [22;38H[24;63H169,117[7CBot[22;37H[?25h[?25l[24;53H^[[22;37H[24;53H  [22;37H[24;53H^[[22;37H[24;53H  [22;37H[?25h[?25l[24;53H:[22;37H[24;53H[K[24;1H:[?2004h[?25hw[?25l[?25hq[?25l[?25h[?25l[?1006l[?1002l[?2004l"readme.md" 169L, 7763C written[23;2t[23;1t[22;2t[22;1t[23;2t[23;1t
+[?2004l[?1l>[?25h[?1049l[23;0;0t]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# git add .
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# fit commit -m "Uda[K[Kpdated doc umentation with all_actions.txt and dot11_layers.txt"
+bash: fit: command not found
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# fit commit -m "Updated documentation with all_actions.txt and dot11_layers.txt"[A]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# [Cit commit -m "Updated docum[1P[A]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# git commit -m "Updated docu[1@m[A]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# [C
+
+[master db74ba1] Updated documentation with all_actions.txt and dot11_layers.txt
+ 2 files changed, 586 insertions(+), 1 deletion(-)
+ create mode 100644 all_actions.txt
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# git push origin master
+Username for 'https://github.com': wwelch@ctcd.edu
+Password for 'https://wwelch@ctcd.edu@github.com': 
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/wjwelchusa/pythonproj5340SU19.git/'
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# git push origin master
+Username for 'https://github.com': wwelch@ctcd.edu
+Password for 'https://wwelch@ctcd.edu@github.com': 
+Enumerating objects: 10, done.
+Counting objects:  10% (1/10)   Counting objects:  20% (2/10)   Counting objects:  30% (3/10)   Counting objects:  40% (4/10)   Counting objects:  50% (5/10)   Counting objects:  60% (6/10)   Counting objects:  70% (7/10)   Counting objects:  80% (8/10)   Counting objects:  90% (9/10)   Counting objects: 100% (10/10)   Counting objects: 100% (10/10), done.
+Delta compression using up to 2 threads
+Compressing objects:  12% (1/8)   Compressing objects:  25% (2/8)   Compressing objects:  37% (3/8)   Compressing objects:  50% (4/8)   Compressing objects:  62% (5/8)   Compressing objects:  75% (6/8)   Compressing objects:  87% (7/8)   Compressing objects: 100% (8/8)   Compressing objects: 100% (8/8), done.
+Writing objects:  12% (1/8)   Writing objects:  25% (2/8)   Writing objects:  37% (3/8)   Writing objects:  50% (4/8)   Writing objects:  62% (5/8)   Writing objects:  75% (6/8)   Writing objects:  87% (7/8)   Writing objects: 100% (8/8)   Writing objects: 100% (8/8), 45.35 KiB | 860.00 KiB/s, done.
+Total 8 (delta 3), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/3)   [Kremote: Resolving deltas:  33% (1/3)   [Kremote: Resolving deltas: 100% (3/3)   [Kremote: Resolving deltas: 100% (3/3), completed with 1 local object.[K
+To https://github.com/wjwelchusa/pythonproj5340SU19.git
+   09842d8..db74ba1  master -> master
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# pwd
+/root/cosc5340_su19_project/pythonproj5340SU19
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# iwconfig
+lo        no wireless extensions.
+
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Access Point: Not-Associated   Tx-Power=20 dBm   
+          Retry short  long limit:2   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          
+eth0      no wireless extensions.
+
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# airmon-ng check kill
+
+Killing these processes:
+
+  PID Name
+  518 wpa_supplicant
+
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# airmon-ng check kill[C[K[K[K[K[K[K[K[K[K[Kstart wlan0mon
+
+
+PHY	Interface	Driver		Chipset
+
+phy0	wlan0		rt2800usb	Ralink Technology, Corp. RT2870/RT3070
+
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# airodump-ng wlan0mon
+[0mInterface wlan0mon: 
+ioctl(SIOCGIFINDEX) failed: No such device
+Failed initializing wireless card(s): wlan0mon
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# iwconfig
+lo        no wireless extensions.
+
+wlan0     IEEE 802.11  ESSID:off/any  
+          Mode:Managed  Access Point: Not-Associated   Tx-Power=20 dBm   
+          Retry short  long limit:2   RTS thr:off   Fragment thr:off
+          Encryption key:off
+          Power Management:off
+          
+eth0      no wireless extensions.
+
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# airodum[K[K[K[Kmon-ng start wlan0
+
+
+PHY	Interface	Driver		Chipset
+
+phy0	wlan0		rt2800usb	Ralink Technology, Corp. RT2870/RT3070
+
+		(mac80211 monitor mode vif enabled for [phy0]wlan0 on [phy0]wlan0mon)
+		(mac80211 station mode vif disabled for [phy0]wlan0)
+
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# airmon-ng start wlan0[13Piwconfigairodump-ng wlan0mon
+[0m[0J[?25l[2J[1;1H
+ CH  0 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  0 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  0 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  1 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  1 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  1 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  1 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  1 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  1 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  7 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  7 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  7 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  7 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  7 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  7 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 13 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 13 ][ Elapsed: 0 s ][ 2019-07-18 11:21                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 13 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 13 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 13 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  2 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  2 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  2 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  8 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  8 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  8 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  8 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  8 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  8 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  3 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  3 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  3 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  3 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  3 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  3 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 14 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 14 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 14 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 14 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  9 ][ Elapsed: 0 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  9 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  9 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  4 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  4 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  4 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  4 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  4 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  4 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 10 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 10 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 10 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 10 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 10 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 10 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  5 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  5 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  5 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  5 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  5 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 11 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 11 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 11 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 11 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  6 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  6 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  6 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 12 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 12 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 12 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 12 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 12 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH 12 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  1 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  1 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  1 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  1 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  1 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  1 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[1;1H
+ CH  7 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                     
+                                                                               
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                               
+                                                                               
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe     
+                                                                               
+[0J[0J[0J[0J[1;1H
+ CH  7 ][ Elapsed: 6 s ][ 2019-07-18 11:22                                         
+                                                                                   
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                   
+                                                                                   
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe         
+                                                                                   
+[0J[1;1H
+ CH  7 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                        
+                                                                                   
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                   
+                                                                                   
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe         
+                                                                                   
+[0J[0J[1;1H
+ CH 13 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 13 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 13 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  2 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  2 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  2 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  2 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  2 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  2 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  8 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  8 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  8 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  8 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  8 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  8 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  3 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  3 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  3 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  3 ][ Elapsed: 12 s ][ 2019-07-18 11:22                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J
+[?25h]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# ifconfig wlan0mon down
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# ifconfig wlan0mon down[K[K[K[Kup
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# iwconfig
+wlan0mon  IEEE 802.11  Mode:Monitor  Frequency:2.484 GHz  Tx-Power=20 dBm   
+          Retry short  long limit:2   RTS thr:off   Fragment thr:off
+          Power Management:off
+          
+lo        no wireless extensions.
+
+eth0      no wireless extensions.
+
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# airo[Kmon-ng check kill[K[K[K[K
+
+
+]0;root@kali: ~/cosc5340_su19_project/pythonproj5340SU19[01;31mroot@kali[00m:[01;34m~/cosc5340_su19_project/pythonproj5340SU19[00m# airodump-ng wlan0mon
+[0m[0J[?25l[2J[1;1H
+ CH  0 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  0 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  0 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  0 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  1 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  1 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  1 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  1 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  1 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  1 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  7 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  7 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  7 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  7 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  7 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 13 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 13 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 13 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 13 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  2 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  2 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  2 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  2 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  2 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  8 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  8 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  8 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  8 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  8 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  8 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  3 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  3 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  3 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  3 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  3 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  3 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 14 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 14 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 14 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 14 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 14 ][ Elapsed: 0 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 14 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  9 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  9 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  9 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  9 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  9 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  4 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  4 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  4 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  4 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 10 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 10 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 10 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  5 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  5 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  5 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  5 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  5 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  5 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 11 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 11 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 11 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 11 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  6 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  6 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH  6 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 12 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 12 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 12 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 12 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 12 ][ Elapsed: 6 s ][ 2019-07-18 11:23                                         
+                                                                                    
+ BSSID              PWR  Beacons    #Data, #/s  CH  MB   ENC  CIPHER AUTH ESSID
+                                                                                    
+                                                                                    
+ BSSID              STATION            PWR   Rate    Lost    Frames  Probe          
+                                                                                    
+[0J[1;1H
+ CH 12 ][ Ela

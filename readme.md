@@ -2,6 +2,10 @@
 ## TODO:
 1. I need to find useful documentation for referring to the data elements at each layer accessible with scapy.
 2. Existing radio card is capturing traffic only in 2.5 Ghz range. This is due to driver or chipset. Investigate and correct if possible. Otherwise, continue for project using this range. Subsequent application to other ranges should be extensible, given scapy library.
+3. Purchased new air card with 802.11ac capability. Card is not currently detecting signals. Update and configure driver for the aircard.
+4. Separate the MAC addresses into AP MAC and STA MAC. AP MAC may be identified for wireless disassociation and PSK pwd cracking, join the network with common URL/IP address and vendor passwords, to exploit AP.
+5. Investigate extraction of SSID's not in beacon mode.
+6. STA MAC can be investigated to discern path and vulnerability status.
 
 ## 6/25/2019 Activities
 1. Provided initial project submission.
@@ -166,4 +170,10 @@ The second script was to extract info and labels from the traffic. (.11 traffic 
 1. Details provided by scapy are significant and detailed.
 2. Extracted output of all supported layers to: dot11_layers.txt
 3. Extracted all actions available with scapy to all_actions.txt
-4. Many of the remainings cripts will depend upon this documentation for data extract, classification and processing. 
+4. Many of the remainings cripts will depend upon this documentation for data extract, classification and processing.
+
+## 7/18/2019 Activities
+### Building scripts to extract data from Dot11 signals and to identify SSID's
+1.  Examine in more depth the extraction of additional fields and values from the Dot11 scapy layer.
+2. The data is referenced through tagged parameters, in the format : type, length, value. Typically the SSID is the first tagged parameter. Do not always assume this only. Reference otherwise.
+3. It will help to determine if the WLAN signal is encrypted. This is extracted from RSN field.
