@@ -6,6 +6,9 @@
 4. Separate the MAC addresses into AP MAC and STA MAC. AP MAC may be identified for wireless disassociation and PSK pwd cracking, join the network with common URL/IP address and vendor passwords, to exploit AP.
 5. Investigate extraction of SSID's not in beacon mode.
 6. STA MAC can be investigated to discern path and vulnerability status.
+7. When searching for AP's, clients will search for the SSID's in their listing (what is this called?). It may be possible to determine where a STA has been by pairing their client probes with the Wigle of skyhook database and GeoIP. Print out the location and location by date (if possible).
+8. As the ambient WLAN signals are sampled, connect various radio cards and antennae to determine if additional signals are detected. Also, take note of received power as a roungh function of received/antenna selaction
+
 
 ## 6/25/2019 Activities
 1. Provided initial project submission.
@@ -177,3 +180,8 @@ The second script was to extract info and labels from the traffic. (.11 traffic 
 1.  Examine in more depth the extraction of additional fields and values from the Dot11 scapy layer.
 2. The data is referenced through tagged parameters, in the format : type, length, value. Typically the SSID is the first tagged parameter. Do not always assume this only. Reference otherwise.
 3. It will help to determine if the WLAN signal is encrypted. This is extracted from RSN field.
+
+## 7/19/2009 Activities
+### Building scripts to extract data from Dot11 signals and to identify SSID's. Also, conducted short survey of effectiveness of more powerful antenna type.
+1. The radio card used for the majority of scapy scripting work in this project is the Alpha N124-700, with a simpole vertical antenna. (See image in images directory.) The number of APs detected in the area varied between 8-12. For a short period today, a more powerful antenna, the COM-24015PN 15db antenna was connected.  (See image in images directory.) During this period the number of received signals doubled. Also, the new antenna is directional, and if rotated on a schedule would collect even more signals. The utility of the antenna/card pairing is important is extends the application of the implemented scapy scripts.
+
