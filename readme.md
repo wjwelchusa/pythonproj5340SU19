@@ -183,5 +183,16 @@ The second script was to extract info and labels from the traffic. (.11 traffic 
 
 ## 7/19/2009 Activities
 ### Building scripts to extract data from Dot11 signals and to identify SSID's. Also, conducted short survey of effectiveness of more powerful antenna type.
-1. The radio card used for the majority of scapy scripting work in this project is the Alpha N124-700, with a simpole vertical antenna. (See image in images directory.) The number of APs detected in the area varied between 8-12. For a short period today, a more powerful antenna, the COM-24015PN 15db antenna was connected.  (See image in images directory.) During this period the number of received signals doubled. Also, the new antenna is directional, and if rotated on a schedule would collect even more signals. The utility of the antenna/card pairing is important is extends the application of the implemented scapy scripts.
+1. The radio card used for the majority of scapy scripting work in this project is the Alpha N124-700, with a simple vertical antenna. (See image in images directory.) The number of APs detected in the area varied between 8-12. For a short period today, a more powerful antenna, the COM-24015PN 15db antenna was connected.  (See image in images directory.) During this period the number of received signals doubled. Also, the new antenna is directional, and if rotated on a schedule would collect even more signals. The utility of the antenna/card pairing is important is extends the application of the implemented scapy scripts.
+2. Today's scripts focus on client probes. A client probe is the precursor step to locating a listed SSID in the client OS and beginning an association. The sequencing of the clients through this SSID list will provide information regarding travel and prior location if associated with WLAN databases in Wigle of Skyhook. This is not an explicit part of the project, but would be a growth direction.
+3. clientfinder.py was implemented, with no detections. This may be due to all clients in view having already been associated or an error. I will let this run over time to see if a detection is made. There is more detail on this in clientfinder.py script.
+4. Initial research effort is complete for the project:
+	A. scapy was installed and configured
+	B. several radio cards were used and compared
+	C. many scapy scripts were developed, tested and debugged, to determine if scapy coould extract useful data fields from the WLAN signals
+	D. the next focus will be the actions taken once the wireless signal extracts are in hand
+		D1. Locate an API or web scraping script to pair MAC OUI manufacturer with the OUIs detected
+		D2. Locate an API or webscraping script to identify MACs with outstanding patches or exploits
+		D3. Write the results or scapy scripts to a data file or container and complete D1, D2 
+
 
