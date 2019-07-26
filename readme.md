@@ -193,5 +193,14 @@ The second script was to extract info and labels from the traffic. (.11 traffic 
 	- the next focus will be the actions taken once the wireless signal extracts are in hand
 		- Locate an API or web scraping script to pair MAC OUI manufacturer with the OUIs detected
 		- Locate an API or webscraping script to identify MACs with outstanding patches or exploits
-		- Write the results or scapy scripts to a data file or container and the steps above
+		- Write the results or scapy scripts to a data file or container as described inthe steps above
+
+
+## 7/24-25/2009 Activities
+### Rebaselined project based on original statements, emerging TODO's and progress to date
+1. Progress is satisfactory on developing WLAN script to extract MAC and SSID from 2.4 Ghz range. Success in 5.6 Ghz, ac, MIMO behaviors is intermittent, but proof of concept is completed.
+2. The remaining activities to complete, at a minimum are:
+- Locate an API or web scraping script to pair MAC OUI manufacturer with the OUIs detected
+		- Locate an API or webscraping script to identify MACs with outstanding patches or exploits
+		- Write the results or scapy scripts to a data file or container as described inthe steps above
 
