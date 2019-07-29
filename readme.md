@@ -204,3 +204,10 @@ The second script was to extract info and labels from the traffic. (.11 traffic 
 		- Locate an API or webscraping script to identify MACs with outstanding patches or exploits
 		- Write the results or scapy scripts to a data file or container as described inthe steps above
 
+
+## 7/28/2019 Activities
+### Reviewed various methods to scrape web for OUI and associated mfr database. 
+1. We covered web scarping in class. Very interesting. I sought libraries and modules which would facilitate access to data without the requirement for me to write extraction and filtering routines.
+2. Excellent discussion of resources and methods here: "Better web scraping in Python with Selenium, Beautiful Soup, and pandas", [https://www.freecodecamp.org/news/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251/]
+3. Review and practiced with libraries. No firm conclusion and justification yet.
+4. Using an API is most direct and easiest, but that leaves an intermediary in charge of access.
