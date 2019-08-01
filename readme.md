@@ -211,3 +211,8 @@ The second script was to extract info and labels from the traffic. (.11 traffic 
 2. Excellent discussion of resources and methods here: "Better web scraping in Python with Selenium, Beautiful Soup, and pandas", [https://www.freecodecamp.org/news/better-web-scraping-in-python-with-selenium-beautiful-soup-and-pandas-d6390592e251/]
 3. Review and practiced with libraries. No firm conclusion and justification yet.
 4. Using an API is most direct and easiest, but that leaves an intermediary in charge of access.
+
+## 7/29-7/30 Activities
+### Reviewed documentation for additional resources and any missed features regarding the WLAN card, seeking a means to open the scanning to the 5  Ghz range. I paid particular attention to this resource: https://doc.lagout.org/security/Packt.Kali.Linux.CTF.Blueprints.Jul.2014.ISBN.1783985984.pdf, which had excellent documentation but did not correct the shortcoming. Next steps to complete prior to submission:
+1. Integrate scanning and webscraping functions into a single program.
+2. Complete report presentation (using Jing).
