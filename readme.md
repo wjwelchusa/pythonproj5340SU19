@@ -196,7 +196,7 @@ The second script was to extract info and labels from the traffic. (.11 traffic 
 		- Write the results or scapy scripts to a data file or container as described inthe steps above
 
 
-## 7/24-25/2009 Activities
+## 7/24-25/2019 Activities
 ### Rebaselined project based on original statements, emerging TODO's and progress to date
 1. Progress is satisfactory on developing WLAN script to extract MAC and SSID from 2.4 Ghz range. Success in 5.6 Ghz, ac, MIMO behaviors is intermittent, but proof of concept is completed.
 2. The remaining activities to complete, at a minimum are:
@@ -213,6 +213,17 @@ The second script was to extract info and labels from the traffic. (.11 traffic 
 4. Using an API is most direct and easiest, but that leaves an intermediary in charge of access.
 
 ## 7/29-7/30 Activities
-### Reviewed documentation for additional resources and any missed features regarding the WLAN card, seeking a means to open the scanning to the 5  Ghz range. I paid particular attention to this resource: https://doc.lagout.org/security/Packt.Kali.Linux.CTF.Blueprints.Jul.2014.ISBN.1783985984.pdf, which had excellent documentation but did not correct the shortcoming. Next steps to complete prior to submission:
-1. Integrate scanning and webscraping functions into a single program.
-2. Complete report presentation (using Jing).
+### Reviewed documentation for additional resources and any missed features regarding the WLAN card, seeking a means to open the scanning to the 5  Ghz range. 
+1. I paid particular attention to this resource: https://doc.lagout.org/security/Packt.Kali.Linux.CTF.Blueprints.Jul.2014.ISBN.1783985984.pdf, which had excellent documentation but did not correct the shortcoming. Next steps to complete prior to submission:
+2. Integrate scanning and webscraping functions into a single program.
+3. Complete report presentation.
+
+## 7/31 - 8/1/2019 Activities
+### Completed project effort. Notes and lessons learned are provided here.
+1. Project was delightfully ambitious. Required new knowledge for Linux, aircrack-ng, wireless card behavior and API use.
+2. Project initially progressed well as scapy methods were understood and tested.
+3. Project progressed well as API for MAC-mfr mapping was initially tested. Wireless card was at time finicky and would stop scanning, leading to erroneous debugging efforts.
+4. Final integration was unsuccessful. Intention was to integrate all features into a single Python program. However, a bug between urllib2 and scapy module access could not be eliminated, so two step process was used. First, scan was completed to identify all MAC's in the area. Second, to map the discovered mac's to the mfr's. 
+5. At this time, the error in using this API was discovered as it returned same mfr, regardless of API. Prior testing should have detected this. Another API is available, but time is not available to correct.
+6. Although not fully successful, I enjoyed the project immensely and it greatly stimulated my interest to attempt similar projects.
+
